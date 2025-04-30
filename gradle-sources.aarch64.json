@@ -1,6 +1,26 @@
 [
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/3.25.3/protoc-3.25.3-linux-aarch_64.exe",
+    "sha512": "06b40109ed35135a7fe79837c38f3b82ca9b3edff1441268e1c8eb5eeb9ecce9a768bbb76fbc512ec261fd733e6b460217b805e6173321de50de9a0c754d07fe",
+    "dest": "./offline-repository/com/google/protobuf/protoc/3.25.3",
+    "dest-filename": "protoc-3.25.3-linux-aarch_64.exe",
+    "only_arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/grpc/protoc-gen-grpc-java/1.70.0/protoc-gen-grpc-java-1.70.0-linux-aarch_64.exe",
+    "sha512": "c2a774835a7ce9dcfa820a589f8a512545b4a420d0943476e4a28f28d8356f32a70fce039bef025e8b9a5a48faf8c82ffc2e8e17823c6d7968a928246042898e",
+    "dest": "./offline-repository/io/grpc/protoc-gen-grpc-java/1.70.0",
+    "dest-filename": "protoc-gen-grpc-java-1.70.0-linux-aarch_64.exe",
+    "only_arches": [
+      "aarch64"
+    ]
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.7.3/desktop-jvm-linux-arm64-1.7.3.pom",
     "sha512": "def4143625ca3dd6a248782814adcf3e2b05fdb59b6e7e7269396bcc9374b6625f7c7a2e93b12ca6eb83de489ca522169b28a47b9a5554be6319df4bc2a84b5c",
     "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.7.3",

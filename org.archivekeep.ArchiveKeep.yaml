@@ -45,21 +45,14 @@ modules:
     sources:
       - type: git
         url: https://github.com/archivekeep/archivekeep.git
-        commit: e5d90c23978736de777f5d95bc06a64d0630aa0f
-        tag: v0.3.3
+        commit: 82c9bb5920807859f58275f71fe91bf9f7d7d294
+        tag: v0.4.0
         disable-submodules: true
       - type: file
         url: "https://services.gradle.org/distributions/gradle-8.11.1-bin.zip"
         sha256: "f397b287023acdba1e9f6fc5ea72d22dd63669d59ed4a289a29b1a76eee151c6"
         dest: "gradle/wrapper"
         dest-filename: "gradle-bin.zip"
-      - "gradle-sources-root.json"
-      - "gradle-sources-app-core.json"
-      - "gradle-sources-app-desktop.json"
-      - "gradle-sources-app-desktop.aarch64.json"
-      - "gradle-sources-app-desktop.x86_64.json"
-      - "gradle-sources-cli.json"
-      - "gradle-sources-files.json"
-      - "gradle-sources-files.aarch64.json"
-      - "gradle-sources-files.x86_64.json"
-
+      - "gradle-sources.json"
+      - "gradle-sources.aarch64.json"
+      - "gradle-sources.x86_64.json"
