@@ -5384,17 +5384,17 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.20/kotlin-reflect-2.0.20.jar",
-    "sha512": "de435de4c4b99ee06814135698ba226522331b17ea2e59a957bed27aa339bebf2e1bc2ed258bdda7948d45d0da4963a73dcee9d963625243e6fc139fad1557a7",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.0.20",
-    "dest-filename": "kotlin-reflect-2.0.20.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.jar",
+    "sha512": "3b35fb5684bc7cad47a5c068b2671ae55cabe6ca16745277ac44ce0785b1384ad35444fbe10b68ca7c360ba9a86b0061a6101956b370e6c19bd8c85c9bc13dcd",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.0.21",
+    "dest-filename": "kotlin-reflect-2.0.21.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.20/kotlin-reflect-2.0.20.pom",
-    "sha512": "295a5725119db993e4e644c2ada31eed281de149d23f1ab2ce841e6fa64f34e59e6f3e7913b05b2f98dffa5f20a0d26a32e9b3a9ba1cc79f9737374479b19f7e",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.0.20",
-    "dest-filename": "kotlin-reflect-2.0.20.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.0.21/kotlin-reflect-2.0.21.pom",
+    "sha512": "39be2e959d5c2e2e22445edcfb41b43497b2ad5edfc936081a6a72fcf8b9291571f5d3d6a7ef5d7eb30ddd2cff744966f68ddfea2da33120bf30326e12492425",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.0.21",
+    "dest-filename": "kotlin-reflect-2.0.21.pom"
   },
   {
     "type": "file",
