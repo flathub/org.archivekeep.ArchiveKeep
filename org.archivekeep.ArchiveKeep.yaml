@@ -45,8 +45,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/archivekeep/archivekeep.git
-        commit: d49ae53ec85bff903a58075739f0b076a36ffe2d
-        tag: v0.4.1
+        commit: 632ec6e64dd1484476fcfb41c0112c90fd99737d
+        tag: v0.4.2
         disable-submodules: true
       - type: file
         url: "https://services.gradle.org/distributions/gradle-8.14-bin.zip"
