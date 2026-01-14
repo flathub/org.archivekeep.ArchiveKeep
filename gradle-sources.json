@@ -2885,20 +2885,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar",
-    "sha512": "3cea86be94bb8ae40d21ad4bf7d7f6b2233e89593b7b741ad84c78840cd3837bb5136f52e62fe9ae0953d7b190c46ad3edc102dfa97b4c7ea472a80206bf5db7",
-    "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.18.0",
-    "dest-filename": "error_prone_annotations-2.18.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.pom",
-    "sha512": "983b1ec72f755a77bbc35dd326952d62e8ab8978810637e741f0173c008b552577e76fcabfacf3c01569bd36f09434364bab690d1e62e2bf99117bf0f5acf124",
-    "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.18.0",
-    "dest-filename": "error_prone_annotations-2.18.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar",
     "sha512": "bd6f5650902526d3db06aa1cc7bd36723658166acfabb823aca27d0b2c3814e83ae24a8217ce915c3e194c2c696a102580b4c21ef5dba61f7610bcb8d580f566",
     "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.36.0",
@@ -2924,13 +2910,6 @@
     "sha512": "07bb0fc1b8659cd8c9ffb49563d4ec5f86bb30f5515eb6951e272de83e64670b0490f2e40b33ff6673f0d603719430c3378630478686d5849242028285204cdc",
     "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.41.0",
     "dest-filename": "error_prone_annotations-2.41.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.18.0/error_prone_parent-2.18.0.pom",
-    "sha512": "64d02f706f330b5e2c3a8a14e9a4b41104eb561c04a9c7a885bd49e785a1de1cbf3afbee920625cfcb4f08897edd38fcb0df22846199413c7a88b45d8c664ec4",
-    "dest": "./offline-repository/com/google/errorprone/error_prone_parent/2.18.0",
-    "dest-filename": "error_prone_parent-2.18.0.pom"
   },
   {
     "type": "file",
@@ -3018,13 +2997,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/32.0.1-android/guava-parent-32.0.1-android.pom",
-    "sha512": "21e1b89639b441b47104d7f2ef931acc779c108053a5c3a8a7e3546fb0f23987c5e2459604f2dc0df579a8f5cbffbef529415a0fd47a5728d8206a028dec2174",
-    "dest": "./offline-repository/com/google/guava/guava-parent/32.0.1-android",
-    "dest-filename": "guava-parent-32.0.1-android.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/32.0.1-jre/guava-parent-32.0.1-jre.pom",
     "sha512": "b34479c04af3effa169e5f6ad3b326ac69665027101f265d9543c23435c58ac46897cb26a5050d596489ea016a44a6bdd28d5d3903aead6c9509e6afd83b26e5",
     "dest": "./offline-repository/com/google/guava/guava-parent/32.0.1-jre",
@@ -3043,20 +3015,6 @@
     "sha512": "2be50ed9ae1e9db5397a209428363905222578d573c9ae674d9607c15f17e0646b176498e30a3b62185cb78dd6c6a7b5ee09b901bd97c7752958437093883eae",
     "dest": "./offline-repository/com/google/guava/guava-parent/33.5.0-jre",
     "dest-filename": "guava-parent-33.5.0-jre.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/32.0.1-android/guava-32.0.1-android.jar",
-    "sha512": "6b834f3c939efbb88dfa46d32246e0db968bb52b9fd47fe9f89fa3fbef4bebd42be8ed08fc3c4310f7a397f82a1f40ddfe9fdfb15d30ed7a704865eba47b0bfe",
-    "dest": "./offline-repository/com/google/guava/guava/32.0.1-android",
-    "dest-filename": "guava-32.0.1-android.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/32.0.1-android/guava-32.0.1-android.pom",
-    "sha512": "cd85f39861c7ed9b739ec87804c3257e9c708e55b6bc64fcd84581067d3d0f2fa35317174446ad87ba60f89babc075ebb77e36359337d5c20b28551b815b6149",
-    "dest": "./offline-repository/com/google/guava/guava/32.0.1-android",
-    "dest-filename": "guava-32.0.1-android.pom"
   },
   {
     "type": "file",
@@ -7260,13 +7218,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.9.0/kotlinx-coroutines-android-1.9.0.pom",
-    "sha512": "f072c0f0b90ff949580b5d0c195f5051cb7e5245ee8fa4fad2c49e4f8a8344521ff2ba3d113342aa0bc7a40587f28dffe4d0375c17f9d659d5189c4b4c94e6c4",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.9.0",
-    "dest-filename": "kotlinx-coroutines-android-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.10.1/kotlinx-coroutines-bom-1.10.1.pom",
     "sha512": "33538f10edfd0dea3881d3d94bdd9a70220f0e30beb2d2dd6ef5aca91957997b6a4bf63d19e9fb8f4d2ee578aeb773beda4176315980aecfd53d855b61ce8d1a",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.10.1",
@@ -7278,13 +7229,6 @@
     "sha512": "cbf3434b3f75137994325b2d2a3671f9b0becc4922022a2bf653823f6d93278d8a37a49829d4dd47b807b047c7cbf719412f40dc30d018a9001567c535158f1b",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.6.4",
     "dest-filename": "kotlinx-coroutines-bom-1.6.4.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.9.0/kotlinx-coroutines-bom-1.9.0.pom",
-    "sha512": "6d7f6ee873c622ac45c12266c1b2dc7086cb7273a77215ef9c51ce3b8cc1ac3415229b193792d1900d0ed9fba3f464eaa380741e813ed4ed364a6bc21de17671",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.9.0",
-    "dest-filename": "kotlinx-coroutines-bom-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7330,27 +7274,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar",
-    "sha512": "78c77268ec81ee580c9481ae35b667912e186e11576acc669ad4e8c17041506db5ba8adae439b50685a7cedf58755f0df7f2aa82ad1350e499431b13e6752a1a",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.module",
-    "sha512": "2a2ddb002d60f0a4bc757b8deacd2a89b1a86c6601bd52911af701728cc0b796e3ae743b4f2b847036eeb8ce58141a0f438ee600ba198cd55e95031af7081e4e",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.pom",
-    "sha512": "d04fca8b3b465e781f48b7903ff8d880ca305a66c038e02da51ca87a0ee5c96275f911c673d779a364e82a325e427f4c11f5f83ed3c815cd75f6291fb96c0625",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.10.1/kotlinx-coroutines-core-1.10.1.module",
     "sha512": "891754e1a21733594ac0526acb39dfd4f2f83782a2260c2e0723a76daef9bfee648bc805a7bb604d688036d326473129eeadf5a58cdd34bb3eb268547282e9c4",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.10.1",
@@ -7372,38 +7295,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.module",
-    "sha512": "e41d384e7e11561a243f838c49bbdf031354ebf51690cfb23aba2e734c8220729ac1b339938853c4b658f0440272fbe09465e17be46e231e21898a9d4fbdc84c",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-1.9.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.pom",
-    "sha512": "a0031bc41d95c457e2be4ba52dd7af151e5b7519cf01591ea258b7654054666f98f1f82911e4d8282e4d574db3dfffab917031d4e5493acf6df006469f24dbb5",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-1.9.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/../../kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.module",
-    "sha512": "2a2ddb002d60f0a4bc757b8deacd2a89b1a86c6601bd52911af701728cc0b796e3ae743b4f2b847036eeb8ce58141a0f438ee600ba198cd55e95031af7081e4e",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/../../kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.module"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-debug/1.10.1/kotlinx-coroutines-debug-1.10.1.pom",
     "sha512": "bd8ef554e05e09427fd1315fc674a91fb389bc18594d6073298860b96f22441ea721e3acae3da71634e427d4872845240082211e32c0dd0472fa4fe97ec6e19a",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-debug/1.10.1",
     "dest-filename": "kotlinx-coroutines-debug-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-debug/1.9.0/kotlinx-coroutines-debug-1.9.0.pom",
-    "sha512": "dee256f7eabe987e69ed8065143f84467df166fb8ed9b7c9a1f86461752826e5561bd90aa6065106374eaf6e8d4f77d8567828b119a5cc7df919acf57d0d8261",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-debug/1.9.0",
-    "dest-filename": "kotlinx-coroutines-debug-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7414,24 +7309,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-guava/1.9.0/kotlinx-coroutines-guava-1.9.0.pom",
-    "sha512": "7d2eb5891bc73fc89dccaf75aa19f75662c79c4c00e79d15aa9908df7c845e2748ad00561766ec4344ee5d8fa2fae6bf58fbee00042fca0ade4974d683e43afa",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-guava/1.9.0",
-    "dest-filename": "kotlinx-coroutines-guava-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-javafx/1.10.1/kotlinx-coroutines-javafx-1.10.1.pom",
     "sha512": "5a7732315296fa0882bfe25be6ca71d40c19f7f5cc8c2f550e3ecfd974eb982027ef13c2862204af19a77c388498adf79ec16ed7df0e9bc58928dd6d67689bc3",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-javafx/1.10.1",
     "dest-filename": "kotlinx-coroutines-javafx-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-javafx/1.9.0/kotlinx-coroutines-javafx-1.9.0.pom",
-    "sha512": "841f9e626bca051af2b1c6929b79580dc22b1d8ba3387316b5ae058f28d3d3e481089b517743f0d41add210e11acad7b8b43d4dc1f05e4a9102f0b3b37cfb0cc",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-javafx/1.9.0",
-    "dest-filename": "kotlinx-coroutines-javafx-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7442,24 +7323,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.9.0/kotlinx-coroutines-jdk8-1.9.0.pom",
-    "sha512": "9c857e4f76314b851de229255107e553b30f8f7e166baadb97c81d436bef07021d7e22f821842122417dd33030fea30a7b5bff31de7cdac354dfefdd27b05e2e",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.9.0",
-    "dest-filename": "kotlinx-coroutines-jdk8-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk9/1.10.1/kotlinx-coroutines-jdk9-1.10.1.pom",
     "sha512": "4f77296ec7679e4b9252261f96844361b8f73e3cdab5fd2def2741f6c5f55b55ed509cbe038b7a134169f407b1e61f4802e879ea553f4f96c132f06fe15ff511",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-jdk9/1.10.1",
     "dest-filename": "kotlinx-coroutines-jdk9-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk9/1.9.0/kotlinx-coroutines-jdk9-1.9.0.pom",
-    "sha512": "55d85bd1b545e14f15bd15ec33ac6124527c5d5bb4b155de3989b49562998147f0a9d284271b22013c48c26e4da197841646d5bd3297416477182c9c1861dbda",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-jdk9/1.9.0",
-    "dest-filename": "kotlinx-coroutines-jdk9-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7470,24 +7337,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-play-services/1.9.0/kotlinx-coroutines-play-services-1.9.0.pom",
-    "sha512": "62209ffa7b931c247ac908cc26f23848206ee04d9641c67a44041cf6721bc36abc6fb49a9ebdcfa537063d88e1820e9d693c0ee96d916b6e8f329a95487c4bed",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-play-services/1.9.0",
-    "dest-filename": "kotlinx-coroutines-play-services-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-reactive/1.10.1/kotlinx-coroutines-reactive-1.10.1.pom",
     "sha512": "46fc340e36c4b234bd288b68b2dd5829f274db2df0f6a0a5f606b2e540f754821a5f9c57d3b84964b4323381504f997929dfd926fbeefb9f2dbe60e504c3974e",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-reactive/1.10.1",
     "dest-filename": "kotlinx-coroutines-reactive-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-reactive/1.9.0/kotlinx-coroutines-reactive-1.9.0.pom",
-    "sha512": "626c539907c593900b7ef87e65aace18715023c88069a55e23ae2cfa057172c8b0d46ba5fdd37556cfad5b40237bcbce84ec1bac3578ab3acebcaee6d4c2830f",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-reactive/1.9.0",
-    "dest-filename": "kotlinx-coroutines-reactive-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7498,24 +7351,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-reactor/1.9.0/kotlinx-coroutines-reactor-1.9.0.pom",
-    "sha512": "3c1e81de7177dda2b7f6b456b90c7243d5b9dfa8b337b8c489d0ac859bcc45d1a585db2f3b0938c59c5bed55e890c8b8a69b467b3250792a1076811f38b1ceb8",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-reactor/1.9.0",
-    "dest-filename": "kotlinx-coroutines-reactor-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-rx2/1.10.1/kotlinx-coroutines-rx2-1.10.1.pom",
     "sha512": "7269777fe391c70c392be1966138eb55a02d3d1851f7e8f396df712dba9acc5d393dfd1252f21875a879ee1130ce60c081e809d295376956dec1ab496047e2d3",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-rx2/1.10.1",
     "dest-filename": "kotlinx-coroutines-rx2-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-rx2/1.9.0/kotlinx-coroutines-rx2-1.9.0.pom",
-    "sha512": "f73b1a9c4176e4413f028154b1dfbd773eea996df96b49b05eb107db0a3bd2633663283db423aa186a64b048b1a55374fe44279873e435137b4827768b50e78c",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-rx2/1.9.0",
-    "dest-filename": "kotlinx-coroutines-rx2-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7526,24 +7365,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-rx3/1.9.0/kotlinx-coroutines-rx3-1.9.0.pom",
-    "sha512": "10593151609dbf97648b401f18e44bedd14503bcccbe648d5798c9f19ee31950d815ceffe0db04766636dd63e96a5da4a2b0b79162b6446a9459075dde28b2ed",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-rx3/1.9.0",
-    "dest-filename": "kotlinx-coroutines-rx3-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.10.1/kotlinx-coroutines-slf4j-1.10.1.pom",
     "sha512": "02b297ef6bb1f8ad53d084790f30a35e56b58d356ac18d0cb1f9384807dabefea8dd580aad66c999aab9a27f46d90aaad5fda9b7d8b44cc1b8b26cf5699c0092",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.10.1",
     "dest-filename": "kotlinx-coroutines-slf4j-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.9.0/kotlinx-coroutines-slf4j-1.9.0.pom",
-    "sha512": "6d789ed372c11771615f12b88a63aefaf4c5b812908b0a3f30a4a2ba6d0e4dd3490012c7db4c269b3df53bcab0fca75b25abed3719625d677320dd61a16fdaa9",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.9.0",
-    "dest-filename": "kotlinx-coroutines-slf4j-1.9.0.pom"
   },
   {
     "type": "file",
@@ -7554,13 +7379,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-swing/1.9.0/kotlinx-coroutines-swing-1.9.0.pom",
-    "sha512": "a286882296c08d110bf0fdbc6016416e9d91752e74d2840f4418417869380b1a6e1b46c7aa6db847ff19feadffc90104b486e5bb3dc32636ebd7940031acc0e8",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-swing/1.9.0",
-    "dest-filename": "kotlinx-coroutines-swing-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test-jvm/1.10.1/kotlinx-coroutines-test-jvm-1.10.1.pom",
     "sha512": "77591975ae3ae76bbd297070fd4214cfad1477f8334fbe6c9f273295feaafe33b368f18a4f864c5c184b91e423a34a4f8444b10d8cd0fd98cf2567a25154a23d",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-test-jvm/1.10.1",
@@ -7568,24 +7386,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test-jvm/1.9.0/kotlinx-coroutines-test-jvm-1.9.0.pom",
-    "sha512": "d5217ec7dde2d2b8553e4b455ce0bd3bcbae64100cd0d8f93f1754e90d770db56b9d81ff5b2abc3e973fab6ebce195e364714c4d8adc47cb2ff7b70e89f51152",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-test-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-test-jvm-1.9.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test/1.10.1/kotlinx-coroutines-test-1.10.1.pom",
     "sha512": "21a57e1038eeb9163d58f88c1613ced9322630b21758205b14780b858459fb67e55bf9cb6c83511c47a9f1b6b9ae267d7afccafbbdffc9aa56f7e4e65f6ec863",
     "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-test/1.10.1",
     "dest-filename": "kotlinx-coroutines-test-1.10.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test/1.9.0/kotlinx-coroutines-test-1.9.0.pom",
-    "sha512": "05fe09d332ba7df1238d79f839b2f9c28f24c4ec546a3a84f930ba524c3905c66c87be97f4b5ef33f6f0f83fe7f522b5d75dc4755cd8e9b70e95ec0a32d72f14",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-test/1.9.0",
-    "dest-filename": "kotlinx-coroutines-test-1.9.0.pom"
   },
   {
     "type": "file",
