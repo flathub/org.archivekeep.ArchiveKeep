@@ -45,7 +45,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/archivekeep/archivekeep.git
-        commit: 30507a6b0b32029b6cee85b1af82a535a8fadea6
+        commit: 3efa689066d926dc6cad2fa823868f6081092808
         tag: v0.5.0
         disable-submodules: true
       - type: file
