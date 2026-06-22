@@ -21,30 +21,20 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.7.3/desktop-jvm-linux-x64-1.7.3.pom",
-    "sha512": "a1a964e860c5910f6b8323d63aa6244298dc2e9313ac338ba21941849a2ba87e8aac9201b306bfef5d173f6adf01c476b68136bc02ea0256402ecf26f9b415f4",
-    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.7.3",
-    "dest-filename": "desktop-jvm-linux-x64-1.7.3.pom",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.11.1/desktop-jvm-linux-x64-1.11.1.pom",
+    "sha512": "76bbff77e1c549ea14701d787141169f819e013b24e6f9c0e3406da52f71a81e08fda5b3b92df66292e474fac94fc462ade40dae2b96358dd051547a0986b8ac",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.11.1",
+    "dest-filename": "desktop-jvm-linux-x64-1.11.1.pom",
     "only_arches": [
       "x86_64"
     ]
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.8.18/skiko-awt-runtime-linux-x64-0.8.18.jar",
-    "sha512": "1c63d9fe9c539e04f8e27a68ded1302e4e56ca2da532610b6444b38ad995b417ccb5d71bf67502abf4e6de51722def02d3b6acf3269e4aa52defa48318c014bf",
-    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.8.18",
-    "dest-filename": "skiko-awt-runtime-linux-x64-0.8.18.jar",
-    "only_arches": [
-      "x86_64"
-    ]
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.8.18/skiko-awt-runtime-linux-x64-0.8.18.pom",
-    "sha512": "6e654e1c887985caa7a1f46f5d5f3962295ec160ce37b224fa917acd741e6b693c98e40222a926fd59a628b959d0735fe750f05b9ae1de9ddc8340ee5effb590",
-    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.8.18",
-    "dest-filename": "skiko-awt-runtime-linux-x64-0.8.18.pom",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.144.6/skiko-awt-runtime-linux-x64-0.144.6.jar",
+    "sha512": "37e1716996f1862c6a4c5f502afc134d060f3ef48c8d5db7fa97260a278d02d8f52c045a3cf24d7df8adb5983aa90fd65e0d1863aa1eebc852a9ee4368596e1c",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.144.6",
+    "dest-filename": "skiko-awt-runtime-linux-x64-0.144.6.jar",
     "only_arches": [
       "x86_64"
     ]
