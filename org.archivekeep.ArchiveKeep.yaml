@@ -9,7 +9,6 @@ sdk-extensions:
 
 finish-args:
   - --socket=x11
-  - --device=dri
   - --share=network
   - --share=ipc
   # access to /dev/disk/by-uuid/ and /dev/mapper/ needed for disk UUID resolution
