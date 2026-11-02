@@ -3718,6 +3718,13 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.10.1/gson-parent-2.10.1.pom",
+    "sha512": "37ccdb8be303bb26b6ea84211a34607dbfe53b5520f6572719ef066cb1eec8b8af8374843749b0bf9f5b479a2d1a8ff55e7a40d9b6b0d23f10102098a84a152f",
+    "dest": "./offline-repository/com/google/code/gson/gson-parent/2.10.1",
+    "dest-filename": "gson-parent-2.10.1.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom",
     "sha512": "d0dc74350cb3266b77d69d17da7473cfddd73d7d824d14c40c0774b454123087e4a35bf7c3db0b5df27f75b3a89d61777e018bb948d2a5eeafecb94a0f37a5cb",
     "dest": "./offline-repository/com/google/code/gson/gson-parent/2.11.0",
@@ -3729,6 +3736,20 @@
     "sha512": "8f2498a254bcb6aa92563a3fdec533039055e1559a91a49be354b1cc4ffb39de2623a2c590308930d34eddf929567463baeafa0e91baf98c2bb0495260bba8d4",
     "dest": "./offline-repository/com/google/code/gson/gson-parent/2.14.0",
     "dest-filename": "gson-parent-2.14.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+    "sha512": "7503e4b8d05c6cc0ecb3a94c5a2e070e049083a441003a79a0cdf474f4286699b4ba1d2a655ddabb8ba10c50e7c36a7045cccdaee465166d4630db647aba2727",
+    "dest": "./offline-repository/com/google/code/gson/gson/2.10.1",
+    "dest-filename": "gson-2.10.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.pom",
+    "sha512": "0c7c66778c5feb209b85ceece35d5a626f8b5255178ab2802460b95bd566944bfdc902f98f17e1a83d3090f94764b3fff53994b265a13df85ef78eed56c6584e",
+    "dest": "./offline-repository/com/google/code/gson/gson/2.10.1",
+    "dest-filename": "gson-2.10.1.pom"
   },
   {
     "type": "file",
@@ -3757,6 +3778,20 @@
     "sha512": "e4658b6de3de50bd47a79fe9ca7d6795d78e7d5223782db95ef23aaf4c5f878b81a09ef7096f9888d2e84e5d112ee437c9c85e9153c507b7c21bd6bd88dadb26",
     "dest": "./offline-repository/com/google/code/gson/gson/2.14.0",
     "dest-filename": "gson-2.14.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/crypto/tink/tink/1.15.0/tink-1.15.0.jar",
+    "sha512": "6552a3c693d081ef46b8be14f2061068878352c78f18a78b57dbd5389d180e5549a71bcb0f3a80ec70c6d573e939c8877d561da815c64d4e2a47a95476c58749",
+    "dest": "./offline-repository/com/google/crypto/tink/tink/1.15.0",
+    "dest-filename": "tink-1.15.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/crypto/tink/tink/1.15.0/tink-1.15.0.pom",
+    "sha512": "1ae3b35df35135fc17335bd62ef23e990683acf106f93730c1c3cf13fd67afc7b94bb9efd7008dcb029ae5d8a7e6bca7d88515ca7a53410ec3125c65a4e131d6",
+    "dest": "./offline-repository/com/google/crypto/tink/tink/1.15.0",
+    "dest-filename": "tink-1.15.0.pom"
   },
   {
     "type": "file",
@@ -3893,6 +3928,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.22.0/error_prone_annotations-2.22.0.jar",
+    "sha512": "b962baa7363f415822d499e8dbbe70f9b6e949c924b13e37e4f7bc5687f3638373fb40c003c77c949c6a64ac4c73b389087d09d2e50a9fc576a5717360692d78",
+    "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.22.0",
+    "dest-filename": "error_prone_annotations-2.22.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.22.0/error_prone_annotations-2.22.0.pom",
+    "sha512": "72b2da5124718b8e3e8e0b4b00e0d5133422387239dc5471338c80224c1c888bf239d402060d329ecade424d06a67d2f9613d4d883a8039d772c422cfd1fcc27",
+    "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.22.0",
+    "dest-filename": "error_prone_annotations-2.22.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.26.1/error_prone_annotations-2.26.1.jar",
     "sha512": "b29d69c3f61084f26f23bc7da138519161f3b33584d97b38e7448c303a1c0b42299fa0371552ad7e1f0be65ca1c69f3b6958cc28ff208a4f49c6456a442ab6ee",
     "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.26.1",
@@ -3946,6 +3995,13 @@
     "sha512": "4cb77580d42df91619e267b7e5080f45b6ef2b2a7f4bd25526d7682ca67eb4e50d8f53f92605fa997dca0f7082253192d02a2a5358fafcc2e05b60719ebc709e",
     "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.48.0",
     "dest-filename": "error_prone_annotations-2.48.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.22.0/error_prone_parent-2.22.0.pom",
+    "sha512": "75c047661556d82e74458fff4c3e72eafc945756b24e311f6619a07ff28988c062c8f742c1c76cd1923f3e279426078a46bbf0472ea63802900f24963471ab8e",
+    "dest": "./offline-repository/com/google/errorprone/error_prone_parent/2.22.0",
+    "dest-filename": "error_prone_parent-2.22.0.pom"
   },
   {
     "type": "file",
@@ -4208,6 +4264,13 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.25.3/protobuf-bom-3.25.3.pom",
+    "sha512": "3b63c79769e127faba2fb2d95b1888abcb3e088d18d63923a9c1c0b4b0819810e8ac7665e9f5052a880fb9454cfe54253c1b844ea485bba850fa1b777e243a31",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-bom/3.25.3",
+    "dest-filename": "protobuf-bom-3.25.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.25.5/protobuf-bom-3.25.5.pom",
     "sha512": "b900a81cfd33a1e85c903ef0eeea375a1e5d85cc6ccb3470b7bbbcceaf928e9e8670405a546aafe2cd0e7e9ed565628eb0990bcb1ae643e0c394f2745cd84007",
     "dest": "./offline-repository/com/google/protobuf/protobuf-bom/3.25.5",
@@ -4240,6 +4303,20 @@
     "sha512": "7af1dda607c8d3102670c2dc2d130a5a38dc3da4c54d8111e63137fcba924e206333baedb14cdef5a37cf5dbff0e99db92951419837ae676d0ebbdbcc9400acc",
     "dest": "./offline-repository/com/google/protobuf/protobuf-java-util/3.25.5",
     "dest-filename": "protobuf-java-util-3.25.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.25.3/protobuf-java-3.25.3.jar",
+    "sha512": "07784b20afb291ca4a593815b654779504ab19d3337f55655f2c5bac95f4629cc22dde5c916abb78beb3e049165e9960a38c5919585a07dc30702a2e943f0b06",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-java/3.25.3",
+    "dest-filename": "protobuf-java-3.25.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.25.3/protobuf-java-3.25.3.pom",
+    "sha512": "d40b243210e690d7aa9297c0198e5c7c33b0d398853bccf6d0b0bf77e0a5d0071d16218fd5336489dbc4a104e121e1b746984aff5b14f86d09e881b02d493901",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-java/3.25.3",
+    "dest-filename": "protobuf-java-3.25.3.pom"
   },
   {
     "type": "file",
@@ -4282,6 +4359,13 @@
     "sha512": "a0830aa7ea5edc5e0fcfe82198dd89dbdc9f70f900c0fe9052639bcca833cd93ac3b403801c93028be59507b4297754ca725f7ff32645244a71b42a9da1f2cfd",
     "dest": "./offline-repository/com/google/protobuf/protobuf-kotlin-lite/3.25.5",
     "dest-filename": "protobuf-kotlin-lite-3.25.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.25.3/protobuf-parent-3.25.3.pom",
+    "sha512": "c42f12e692eb85b4ea8a35a97ea7bc08d066a3fa58d2aa644c90019050d993165652e89b15f04f23e4e866296efb3a2d04efc9f09cd64bfe200b346a6ab93ade",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-parent/3.25.3",
+    "dest-filename": "protobuf-parent-3.25.3.pom"
   },
   {
     "type": "file",
@@ -4523,6 +4607,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/moshi/moshi/1.15.2/moshi-1.15.2.jar",
+    "sha512": "0f1b7025e8c567b3b17ebcbda5c6de505c019670d927c0fd01b78cb1483ad61fc94f9373e40cfef986bd002460cc001bba072d8933a406756a08c8d8231a3c9e",
+    "dest": "./offline-repository/com/squareup/moshi/moshi/1.15.2",
+    "dest-filename": "moshi-1.15.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/moshi/moshi/1.15.2/moshi-1.15.2.module",
+    "sha512": "20480c954ef7a3fbdd5670eabecb3a7201cf2dbfb7245ea6660a1475648e1265e0c97d415bb48b085899a6450e90d6a8155bd9edcc4656db5a42abc87888ad5c",
+    "dest": "./offline-repository/com/squareup/moshi/moshi/1.15.2",
+    "dest-filename": "moshi-1.15.2.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/moshi/moshi/1.15.2/moshi-1.15.2.pom",
+    "sha512": "8ce513d1ecb385aa1c1a3c2f032cad8f08aeaf10a26b4aeca488e94d717c65369441c5bab7654c77312267e9b79a2439d16870885fe10ad1b7ecee2554db6407",
+    "dest": "./offline-repository/com/squareup/moshi/moshi/1.15.2",
+    "dest-filename": "moshi-1.15.2.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-coroutines/5.0.0-alpha.14/okhttp-coroutines-5.0.0-alpha.14.jar",
     "sha512": "1f1c78e5b7d13b9dafd8f903737df7e58d13ecf470cfc4e365616c0b62bd04a8150d9319b7882fdbb20bc04d8a6d9fad52afc2a32e318d21cd240d2183d77387",
     "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.0.0-alpha.14",
@@ -4586,6 +4691,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.7.0/okio-jvm-3.7.0.jar",
+    "sha512": "46303599e616d3f21395777b570b52e4d524b4a8efcf669f226de072557da8aeb8f6a122db3a57162076352e448e076bc2c0d5d63c8338804e556b255d18ec1f",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.7.0",
+    "dest-filename": "okio-jvm-3.7.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.7.0/okio-jvm-3.7.0.module",
+    "sha512": "c70d07314615edcbb359a759e906c3ef8c466da4efb8dce76d1cec119434a53b40859bcb2b81a53a1d4916dfa1339023d9d78d4466c3585b0b5e4461c5e98ffd",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.7.0",
+    "dest-filename": "okio-jvm-3.7.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.7.0/okio-jvm-3.7.0.pom",
+    "sha512": "139b994b43dfaba339f8c0b17cb40bcd217514c2da1c05edf35301069650117c8d2267b2c6d4703a7afb7b53dbf95a9cdddd4781532c8bcd7841ff6f1d8259fd",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.7.0",
+    "dest-filename": "okio-jvm-3.7.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.9.1/okio-jvm-3.9.1.jar",
     "sha512": "11c0557aec7ee7b43671e2d37d575a5ce98166992168cd51a0c7779fa62d3f47c251a7d959ad29735141895daf6e99ffa3b7ebeed41f74bb4c0bdb1c0e72dd27",
     "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.9.1",
@@ -4625,6 +4751,27 @@
     "sha512": "c3c4953bfd1d2a56c9f484d788af86aef7c77571567290e161a015ab42a556444bcc4414b862c0e6490042fe66422c48b52036bc159fcea3125c585534b99dc7",
     "dest": "./offline-repository/com/squareup/okio/okio/3.4.0/../../okio-jvm/3.4.0",
     "dest-filename": "okio-jvm-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.7.0/okio-3.7.0.module",
+    "sha512": "66a82efa5d704c7e23ba7597e4c374baa2cb2ec2df1333bb18a59606741b1e552fb5e7ff01388e1ba5abefd2c54484346a4123f63e21a53b2e8aee599ab04759",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.7.0",
+    "dest-filename": "okio-3.7.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.7.0/okio-3.7.0.pom",
+    "sha512": "04e91432b75616ed163b4be7ad8fe251add0f3a0e5c04b71ae30898688299c767c918a6b463b524e9637d6c9c4dfe6cdbdfba10cf2da49c9748cf933699bbffc",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.7.0",
+    "dest-filename": "okio-3.7.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.7.0/../../okio-jvm/3.7.0/okio-jvm-3.7.0.module",
+    "sha512": "c70d07314615edcbb359a759e906c3ef8c466da4efb8dce76d1cec119434a53b40859bcb2b81a53a1d4916dfa1339023d9d78d4466c3585b0b5e4461c5e98ffd",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.7.0/../../okio-jvm/3.7.0",
+    "dest-filename": "okio-jvm-3.7.0.module"
   },
   {
     "type": "file",
@@ -5514,6 +5661,209 @@
     "sha512": "6c9be003ee48761dde21c60063fd1a06c257db1fcabc38b5c63c2f6e3d16d055e70f05e5ae5bf8811307c0cbc6679179a17a2c9b09704c12b6e401ddf243df1a",
     "dest": "./offline-repository/io/netty/netty-transport/4.1.110.Final",
     "dest-filename": "netty-transport-4.1.110.Final.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/agp-wrapper-7-2/6.0.0-beta3/agp-wrapper-7-2-6.0.0-beta3.jar",
+    "sha512": "54b4fe276792fefef24568895eecc231bcb3e7bca2798fced123f19715c3576894669d2fb777f1dcc96e05e310b393be92d2b99569d21e63347f9fc723dac579",
+    "dest": "./offline-repository/io/objectbox/agp-wrapper-7-2/6.0.0-beta3",
+    "dest-filename": "agp-wrapper-7-2-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/agp-wrapper-7-2/6.0.0-beta3/agp-wrapper-7-2-6.0.0-beta3.module",
+    "sha512": "00b526ef074c612e312ddd453903781349d732103e9b1a1f0ec0436fc4281f10fac8b71f6018c6cd96e69ed8927c9ac8a78d75047634e59dd0159fb8c33048f6",
+    "dest": "./offline-repository/io/objectbox/agp-wrapper-7-2/6.0.0-beta3",
+    "dest-filename": "agp-wrapper-7-2-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/agp-wrapper-7-2/6.0.0-beta3/agp-wrapper-7-2-6.0.0-beta3.pom",
+    "sha512": "1d72a09d8b73a181845260c68ce6396e862c4aa1b9c2df31db6170a071ef31e8a598cb4989902ff9eefabd9bc0072dd747fdbe3a940539947cdfac1d88715318",
+    "dest": "./offline-repository/io/objectbox/agp-wrapper-7-2/6.0.0-beta3",
+    "dest-filename": "agp-wrapper-7-2-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/io.objectbox.gradle.plugin/6.0.0-beta3/io.objectbox.gradle.plugin-6.0.0-beta3.pom",
+    "sha512": "2255ef05906ebb8c1f538839f11892e6ddecf5f2f474e4c41d98770752e15833412e8046aaf4ba1dbea7b8ea6bff0c3cc0e95e9a821f5d2283cbb0da35173e8f",
+    "dest": "./offline-repository/io/objectbox/io.objectbox.gradle.plugin/6.0.0-beta3",
+    "dest-filename": "io.objectbox.gradle.plugin-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-code-modifier/6.0.0-beta3/objectbox-code-modifier-6.0.0-beta3.jar",
+    "sha512": "ea9df14ba22dbd99fd61801aeea6f61fd7e7b0b0fd6742fb4780babab66be83559542695f9829e140ee546dc8273e9ba881b14d6577058dd954b2ee91376b46e",
+    "dest": "./offline-repository/io/objectbox/objectbox-code-modifier/6.0.0-beta3",
+    "dest-filename": "objectbox-code-modifier-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-code-modifier/6.0.0-beta3/objectbox-code-modifier-6.0.0-beta3.module",
+    "sha512": "3a0c4a78f3653ce4f6ae7720b70bac54604a0beed26c551f54049bd50b25de39bbec952b82cd281d45d82bc2b12f5efa06af2950988945fa678dd7a8bbe5ae3e",
+    "dest": "./offline-repository/io/objectbox/objectbox-code-modifier/6.0.0-beta3",
+    "dest-filename": "objectbox-code-modifier-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-code-modifier/6.0.0-beta3/objectbox-code-modifier-6.0.0-beta3.pom",
+    "sha512": "f1a408a42a5df4d2b221b60492b679c522881b8c47d68da770c2abfd0a32d0be84dcefbf12ad63e088c34ac2baae9a6324ccef5f2266ba07254d017dde1b1dcc",
+    "dest": "./offline-repository/io/objectbox/objectbox-code-modifier/6.0.0-beta3",
+    "dest-filename": "objectbox-code-modifier-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-generator/6.0.0-beta3/objectbox-generator-6.0.0-beta3.jar",
+    "sha512": "893c908a299f55d39b82b817496263c3f7b254ae56c9bc70bcb3e825908eda9f6965fc90b6897c53fa0484dffe9f1beb5357237daf5d62d0e462d0b3085b712a",
+    "dest": "./offline-repository/io/objectbox/objectbox-generator/6.0.0-beta3",
+    "dest-filename": "objectbox-generator-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-generator/6.0.0-beta3/objectbox-generator-6.0.0-beta3.module",
+    "sha512": "3f7978f4c46074a49dfce32cedc7964cedd607ed247d34da176aaf72c11c4949b99670eedd3889804eb23b49ab98bcfb40e7f0769ce2e84f2938c6c3ae8c0855",
+    "dest": "./offline-repository/io/objectbox/objectbox-generator/6.0.0-beta3",
+    "dest-filename": "objectbox-generator-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-generator/6.0.0-beta3/objectbox-generator-6.0.0-beta3.pom",
+    "sha512": "ba2c90fbdd20b9fa5084c64ab4b2440151be57d10b6d86a02ba3f269d16beb4fd961e9a178cbe13b8223a291d5720559ec3ae491b868ca9322fab501a8c102e5",
+    "dest": "./offline-repository/io/objectbox/objectbox-generator/6.0.0-beta3",
+    "dest-filename": "objectbox-generator-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-gradle-plugin/6.0.0-beta3/objectbox-gradle-plugin-6.0.0-beta3.jar",
+    "sha512": "cbc615ca09ac8aea82a3b2b231c20a507993a9ee37b42ca3c382d24de4b482974b7f50157113984d785c11d4d7df4571653a3c7be485ed33ed3b2b5c5f718698",
+    "dest": "./offline-repository/io/objectbox/objectbox-gradle-plugin/6.0.0-beta3",
+    "dest-filename": "objectbox-gradle-plugin-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-gradle-plugin/6.0.0-beta3/objectbox-gradle-plugin-6.0.0-beta3.module",
+    "sha512": "c0cc853292f75cac1ad233bc7a325c3be58ee031e515724b708128a9cb51235295ad9b8f2211c83d281f33180f55e42c3889cd2a936eb8ca37e7659b73d9d5b4",
+    "dest": "./offline-repository/io/objectbox/objectbox-gradle-plugin/6.0.0-beta3",
+    "dest-filename": "objectbox-gradle-plugin-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-gradle-plugin/6.0.0-beta3/objectbox-gradle-plugin-6.0.0-beta3.pom",
+    "sha512": "f4b9dfb2e7b387b5d5b64395a8f6080b83567f9d2b23a365e4f953a1174e9be1981ae2e2a8991fd87f8feb997dbd35bb9943b8e073a5fe25fb1fb0ef4eb741e8",
+    "dest": "./offline-repository/io/objectbox/objectbox-gradle-plugin/6.0.0-beta3",
+    "dest-filename": "objectbox-gradle-plugin-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-java-api/6.0.0-beta3/objectbox-java-api-6.0.0-beta3.jar",
+    "sha512": "cf834fe4544910799564b4c3e1fa58d681d25e9ff35323cd5ddebce0c38788cee54e0284f209408f1cb2c50b1561414f1153d19b8977da76427183dd067643bf",
+    "dest": "./offline-repository/io/objectbox/objectbox-java-api/6.0.0-beta3",
+    "dest-filename": "objectbox-java-api-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-java-api/6.0.0-beta3/objectbox-java-api-6.0.0-beta3.module",
+    "sha512": "cec6058d83c61e799f7594dcfb9a6dab1a8f84329236c6c46741be1412ca54d3113aeb6222c112f327490549a522fa90e4e26f040458b6e185d93761f5a514ae",
+    "dest": "./offline-repository/io/objectbox/objectbox-java-api/6.0.0-beta3",
+    "dest-filename": "objectbox-java-api-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-java-api/6.0.0-beta3/objectbox-java-api-6.0.0-beta3.pom",
+    "sha512": "aa3a17852277547b414f793e176ecac85bea3231f9e031bac6f89545f056a754985ea090979ff8696bd5db13e9423f13902f80dc053a9a09d38098870e3f8921",
+    "dest": "./offline-repository/io/objectbox/objectbox-java-api/6.0.0-beta3",
+    "dest-filename": "objectbox-java-api-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-java/6.0.0-beta3/objectbox-java-6.0.0-beta3.jar",
+    "sha512": "e5f3e6cbc5665090a35f88d121005da941ee853c97742bbcc0d6428df49fb1541ca547b583df755a4442e214e76f59180ccd1d3f9260489912ad7bc685359995",
+    "dest": "./offline-repository/io/objectbox/objectbox-java/6.0.0-beta3",
+    "dest-filename": "objectbox-java-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-java/6.0.0-beta3/objectbox-java-6.0.0-beta3.module",
+    "sha512": "993a338ec5cc3faf23c9e05ee897b3631d6b0abf985d4d898aa4615d284aa42fc2c456532fc1859647fd7cfea214be8431bb778824bb8a7709765d9047749c2e",
+    "dest": "./offline-repository/io/objectbox/objectbox-java/6.0.0-beta3",
+    "dest-filename": "objectbox-java-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-java/6.0.0-beta3/objectbox-java-6.0.0-beta3.pom",
+    "sha512": "57e3413079d08c858c2738f5599a342edef472c3bd45d823836e3b020fff0df19a45c2eeda954157c177e55b72bc48d0fd4e56fb901c8bb5070bdc1e29488a4c",
+    "dest": "./offline-repository/io/objectbox/objectbox-java/6.0.0-beta3",
+    "dest-filename": "objectbox-java-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-kotlin/6.0.0-beta3/objectbox-kotlin-6.0.0-beta3.jar",
+    "sha512": "3cc7d78da95ac24bbb4cd8d6006783d779d1ecccdac3c25d99fa65826a974fde5ed35634df5539a0d893f499e18926f1fdeb575d8be28c4519a18507b3dfb8e1",
+    "dest": "./offline-repository/io/objectbox/objectbox-kotlin/6.0.0-beta3",
+    "dest-filename": "objectbox-kotlin-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-kotlin/6.0.0-beta3/objectbox-kotlin-6.0.0-beta3.module",
+    "sha512": "7a465412ca34516c7a3252333446728dc6c9e65a1ba41fad46d058a5cfb76b59517f65ed2b16442ddc40ce02cfb28856e88932cbff80cc82905dba8212c5f821",
+    "dest": "./offline-repository/io/objectbox/objectbox-kotlin/6.0.0-beta3",
+    "dest-filename": "objectbox-kotlin-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-kotlin/6.0.0-beta3/objectbox-kotlin-6.0.0-beta3.pom",
+    "sha512": "0a35334457cfe9f3c85907b285e4cd447b6a07d66a925830805cab6b7d35109923c65ca87885424509eb6ef826905e66268995a3aabb9ee64c17f8d08266446a",
+    "dest": "./offline-repository/io/objectbox/objectbox-kotlin/6.0.0-beta3",
+    "dest-filename": "objectbox-kotlin-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-linux-arm64/6.0.0-beta3/objectbox-linux-arm64-6.0.0-beta3.jar",
+    "sha512": "e6296a7a6af17b0f2693816648387146fc8e2494e8f718fdba1ccc56bef6ee23a7e33dcd4882ba14fe23735e4fac4a639deb9ac66177a3ca334822ab6e362fee",
+    "dest": "./offline-repository/io/objectbox/objectbox-linux-arm64/6.0.0-beta3",
+    "dest-filename": "objectbox-linux-arm64-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-linux-arm64/6.0.0-beta3/objectbox-linux-arm64-6.0.0-beta3.pom",
+    "sha512": "61fa7ec7eb87d4a1db2c979e25961040cfaaac27ca0d01f58d00d01b6c06a21b2502a20004c3979762c837709956e737261ef6fdbf27259467f0334cf0e96438",
+    "dest": "./offline-repository/io/objectbox/objectbox-linux-arm64/6.0.0-beta3",
+    "dest-filename": "objectbox-linux-arm64-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-linux/6.0.0-beta3/objectbox-linux-6.0.0-beta3.jar",
+    "sha512": "950646cf6b8dda621326718163cd30428e666666d5b554b1e0e36864e2cfb551cf2efbb14f88b78133282e8a657fd156a3281d285b683c5387465f44c18da9d6",
+    "dest": "./offline-repository/io/objectbox/objectbox-linux/6.0.0-beta3",
+    "dest-filename": "objectbox-linux-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-linux/6.0.0-beta3/objectbox-linux-6.0.0-beta3.pom",
+    "sha512": "928f2f7d9f86ede49f1f7f49a06ca2961e099aad33395515e7b7b226ea10ec5ea3edf82547ba0b8927855c9f7ede6871bbdfc4f2d9d0201a5db940ccd6daf7af",
+    "dest": "./offline-repository/io/objectbox/objectbox-linux/6.0.0-beta3",
+    "dest-filename": "objectbox-linux-6.0.0-beta3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-processor/6.0.0-beta3/objectbox-processor-6.0.0-beta3.jar",
+    "sha512": "c2298eef18495da9058d6e4e7f8e4a8b9b6a1dc759d9bd4a2779df294c68695f6bcebf33a4f63578be9ef23345f9e26ebe6c128e1409f411598b9c9b45a1dd5d",
+    "dest": "./offline-repository/io/objectbox/objectbox-processor/6.0.0-beta3",
+    "dest-filename": "objectbox-processor-6.0.0-beta3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-processor/6.0.0-beta3/objectbox-processor-6.0.0-beta3.module",
+    "sha512": "a13adaa768c3d13406e8563b83687f5f2ec22459e03523c13de01f2820f84795cc1498fbbe1a21603097e282a4c33e1a82cad39eb09238369ac16f7a4055d6e5",
+    "dest": "./offline-repository/io/objectbox/objectbox-processor/6.0.0-beta3",
+    "dest-filename": "objectbox-processor-6.0.0-beta3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/objectbox/objectbox-processor/6.0.0-beta3/objectbox-processor-6.0.0-beta3.pom",
+    "sha512": "3e2b3882fcad9613c4e940ec298fbd6d2ce60b1756111e0351016edd986df49227f5c457e2e12e3449ab5ab77d73558ccd3d631a2f563605585d767dee271993",
+    "dest": "./offline-repository/io/objectbox/objectbox-processor/6.0.0-beta3",
+    "dest-filename": "objectbox-processor-6.0.0-beta3.pom"
   },
   {
     "type": "file",
@@ -6518,6 +6868,27 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.34/freemarker-2.3.34.jar",
+    "sha512": "58bc6e157452f6b3a70a7d1bcfb89013e7204e716e267386014f6834fb66a56333fe4b538ef25b651913ab585bfa5c8fa010159d96ab952de42a82edb9552fca",
+    "dest": "./offline-repository/org/freemarker/freemarker/2.3.34",
+    "dest-filename": "freemarker-2.3.34.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.34/freemarker-2.3.34.module",
+    "sha512": "aac6adda22d264dd34610c75b3d66cd90f585efc9e8626544ac7da96f40cf2cabb3f35babedc3c95388607ea0b3bae8a6c9027bdc60d3554286a3a84455570f7",
+    "dest": "./offline-repository/org/freemarker/freemarker/2.3.34",
+    "dest-filename": "freemarker-2.3.34.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.34/freemarker-2.3.34.pom",
+    "sha512": "b07bbbf090105b6a8c14ec88853d8315c99719cd9cceef1d6904003cfd946ab678d81ee1f9fe78229e3645f005c033ccec67621903f2478179b88bc87e462ab8",
+    "dest": "./offline-repository/org/freemarker/freemarker/2.3.34",
+    "dest-filename": "freemarker-2.3.34.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.2/jaxb-bom-2.3.2.pom",
     "sha512": "91a18e46630179e6637e5c07bb156eec873dfcdf5676a0c51ec14bb8687e961a7e01c56a091c6502c85e1bf1e257bbf6c130e93e74bb364a3f41efba7c7a40da",
     "dest": "./offline-repository/org/glassfish/jaxb/jaxb-bom/2.3.2",
@@ -6550,6 +6921,34 @@
     "sha512": "8fbd16b2d9321d5fa9e9cb5e15e0aeaf1ad15f8147226d51ef9cd786f456bf0ae7fdb66742c8bb58226eb54dcc634443d6635924cb9f0b2b5082faaa807ff356",
     "dest": "./offline-repository/org/glassfish/jaxb/txw2/2.3.2",
     "dest-filename": "txw2-2.3.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/greenrobot/essentials/3.1.0/essentials-3.1.0.jar",
+    "sha512": "8aaca1f063bc2da7e58db8e25caa3508482560131822dfd1d127ba45a707f8b7db32dc95baa38709cffc027b1089c4741ddac2758f03acf5192ec252b37548de",
+    "dest": "./offline-repository/org/greenrobot/essentials/3.1.0",
+    "dest-filename": "essentials-3.1.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/greenrobot/essentials/3.1.0/essentials-3.1.0.pom",
+    "sha512": "27b8dc8440951acffadb6f5aa1480b5ac67085fea195b8bb652c27e5457924eba4fc05268f88cfbd27e18fd665454f04ce0412d5e1b3ad7944e9733ae3921117",
+    "dest": "./offline-repository/org/greenrobot/essentials/3.1.0",
+    "dest-filename": "essentials-3.1.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA.jar",
+    "sha512": "046c5b87732ef28540c56f88891238e49ac15fcc23e1f13e0b12de816831ba3de54e68a727b6163877a7b19b13f1362c0e6affa2664af1fdac5748632ed7a09e",
+    "dest": "./offline-repository/org/javassist/javassist/3.30.2-GA",
+    "dest-filename": "javassist-3.30.2-GA.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA.pom",
+    "sha512": "3c9d81b656558c6e55442af8a08d47033059049fababd7bccc96d6c268f67e6c7f72de5f5bc93597b7da251ac8ecce296c4fe56c475121094f5993fe03a9be97",
+    "dest": "./offline-repository/org/javassist/javassist/3.30.2-GA",
+    "dest-filename": "javassist-3.30.2-GA.pom"
   },
   {
     "type": "file",
@@ -8429,13 +8828,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.2.0/kotlin-stdlib-common-2.2.0.pom",
-    "sha512": "bed2919fff85d9967d0c5df18d4d261e7d31db61f8634b0dc234607221da4aa77901b65d9743fdf3b8deaafdaf293840150b33052746d8b661110ee35db93bcb",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.2.0",
-    "dest-filename": "kotlin-stdlib-common-2.2.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20/kotlin-stdlib-common-2.3.20.pom",
     "sha512": "0501d7afa27f8902e60111fa2fe013ea5e1b761a3d44e76110a890b2435be9fe326802e64662489b5435b8898bd698a1940a7ddb440a5b5c6cd9d4117893613c",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.20",
@@ -8471,6 +8863,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21/kotlin-stdlib-jdk7-1.8.21.jar",
+    "sha512": "0ff5d13438c179cfd3a658ae3f6e2535d11651ecf4e89d809882704d111c91af859de9d99eaa3c4b45103524b052614c0a084223aa8bd70ff88b43d503fbdfe3",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21",
+    "dest-filename": "kotlin-stdlib-jdk7-1.8.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21/kotlin-stdlib-jdk7-1.8.21.pom",
+    "sha512": "adfcb397c23e9ed89f272a2321de51689d86ce359b54d822dd5983ad5efc57216606f472e4868727e0038d061d0934cb27bd8210b94cca944b541a97976852b8",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21",
+    "dest-filename": "kotlin-stdlib-jdk7-1.8.21.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.2.0/kotlin-stdlib-jdk7-2.2.0.jar",
     "sha512": "f1b3e9cf0bb85f66d553550fc6c3dd6a0a6937276879b4deed2b2f0d9f18eb146e4b6dc96b28fe7c257a02f20b5a62cbc20b52d3d9f8a034a8ea12320453687f",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.2.0",
@@ -8496,6 +8902,20 @@
     "sha512": "2c5b573c0e5fcd9137b614586f7e4b5becaff8edcd15431e785bce5014bd23e3c70f22be5fd95ab15ab99326fddc2b27fcdc9726312a59c4d47d34e88940d3f9",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.0",
     "dest-filename": "kotlin-stdlib-jdk8-1.8.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21/kotlin-stdlib-jdk8-1.8.21.jar",
+    "sha512": "b1a38d6a9d1d7c4cb18ddeba63201cb3a5de101e5a32fd32edcafc3f0350813ee97fd13d3f81bb61a4c1eefe0c02b0349bd07301d682f342ca5caed17f709f34",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21",
+    "dest-filename": "kotlin-stdlib-jdk8-1.8.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21/kotlin-stdlib-jdk8-1.8.21.pom",
+    "sha512": "24d9dc63355bee04f6f69d68c27ff5aa1a0b6864cb9280d32824d19092e160750880d0405a156d31c38427ff5cd04265b30d646dfbfae503691f04eb9d9a0358",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21",
+    "dest-filename": "kotlin-stdlib-jdk8-1.8.21.pom"
   },
   {
     "type": "file",
@@ -8531,27 +8951,6 @@
     "sha512": "3e89f8e956c481b2a16e7789aa90a90d03077cc92cc69c17143c827e49b7da2e96ad88a2edefbfad02559d8e9070e0087ccc3182ff341395a0d8c120f992b949",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.0",
     "dest-filename": "kotlin-stdlib-2.1.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.jar",
-    "sha512": "1514caef0f4eab6b7608ca6188c89c27955e4b4e3ff06ab0f2a6f9944ca84ff9172e2a37e17146f92e3b6beee0bd761c6c6720700304de191cdd81de113c39ee",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.0",
-    "dest-filename": "kotlin-stdlib-2.2.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.module",
-    "sha512": "c8e9d4a5f01834c3e1b56e6790854b9601fd23ddaa8ece1ff48360289a59b10b55d3b250b81446a2a0f1c0621b7898b5e4faf60b8aa5c27282387efbc9aa6b2c",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.0",
-    "dest-filename": "kotlin-stdlib-2.2.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.pom",
-    "sha512": "5fe4a7035bddc50fa79f02dd26138097cbf2b9c7cbb1ca48259ef89e3f57eff8d35220e4549fe44a0b079ab8b8953ebc4cec9ba363667efaf2314be274a2eb44",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.0",
-    "dest-filename": "kotlin-stdlib-2.2.0.pom"
   },
   {
     "type": "file",
@@ -9969,6 +10368,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar",
+    "sha512": "666318e09f4ae02652a64ce2ddd4dd51275a1917108061155aa8d1d9956e9d54bc259d0586ed7cd745c6ac00ab54fbfdd577f6ce915a158fc2eef373d65d445c",
+    "dest": "./offline-repository/org/ow2/asm/asm-tree/9.3",
+    "dest-filename": "asm-tree-9.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.pom",
+    "sha512": "f066513d4dba672edc85e9b457d827c16d55a321cb02f4f5faf6e02f59594c44fe3eae23006e6a7310151ff88ea53e654e27fdced6b0af85dcb24ab276279ca2",
+    "dest": "./offline-repository/org/ow2/asm/asm-tree/9.3",
+    "dest-filename": "asm-tree-9.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar",
     "sha512": "4493f573d9f0cfc8837db9be25a8b61a825a06aafc0e02f0363875584ff184a5a14600e53793c09866300859e44f153faffd0e050de4a7fba1a63b5fb010a9a7",
     "dest": "./offline-repository/org/ow2/asm/asm-tree/9.8",
@@ -9997,6 +10410,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.3/asm-9.3.jar",
+    "sha512": "04362f50a2b66934c2635196bf8e6bd2adbe4435f312d1d97f4733c911e070f5693941a70f586928437043d01d58994325e63744e71886ae53a62c824927a4d4",
+    "dest": "./offline-repository/org/ow2/asm/asm/9.3",
+    "dest-filename": "asm-9.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.3/asm-9.3.pom",
+    "sha512": "a354aaa4a45f6e6c3d24e28b8a9e4490bd0a5e43a33a45dd712daefaab33a65f45cd9ae11d57e38c45082053efbe03e6ab7d5c3882d50f1e6a5d6984f477ce86",
+    "dest": "./offline-repository/org/ow2/asm/asm/9.3",
+    "dest-filename": "asm-9.3.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.8/asm-9.8.jar",
     "sha512": "cbd250b9c698a48a835e655f5f5262952cc6dd1a434ec0bc3429a9de41f2ce08fcd3c4f569daa7d50321ca6ad1d32e131e4199aa4fe54bce9e9691b37e45060e",
     "dest": "./offline-repository/org/ow2/asm/asm/9.8",
@@ -10008,6 +10435,13 @@
     "sha512": "a34a1cc4ac50724e0798f4d8ee677207ba68e4f311d9d5cc200dd9351ea63f556589aa42c7a0df90b53634ae41bae3646d5115eb029aab11077a20f7b144bf3f",
     "dest": "./offline-repository/org/ow2/asm/asm/9.8",
     "dest-filename": "asm-9.8.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom",
+    "sha512": "5445748e294cf9f23fe8f1e18e2ebb7108800d40f81a4566a73f9434fe21d2058d05acf3bc4d15f629151df47c42bcf948de3bba0b6a37982dfc3a8f1baf244d",
+    "dest": "./offline-repository/org/ow2/ow2/1.5",
+    "dest-filename": "ow2-1.5.pom"
   },
   {
     "type": "file",
