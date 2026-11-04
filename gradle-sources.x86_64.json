@@ -11,6 +11,16 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/3.25.5/protoc-3.25.5-linux-x86_64.exe",
+    "sha512": "9a3ea6dda634499746eec9c8f8527ba707cc8755af72e8ed34b0cffcfe092071792745fe45a5a53f43e2eecf90b25537cf836be4903626ee0a6bb796f5fbf961",
+    "dest": "./offline-repository/com/google/protobuf/protoc/3.25.5",
+    "dest-filename": "protoc-3.25.5-linux-x86_64.exe",
+    "only_arches": [
+      "x86_64"
+    ]
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/grpc/protoc-gen-grpc-java/1.70.0/protoc-gen-grpc-java-1.70.0-linux-x86_64.exe",
     "sha512": "393631a190feb2edff559f58ece7a4d05491d288ca31e84adccd2af32b202ff9ceaf1a332c1d5f733f34cf475bea364a528e33ce7c37b0c0a404cd955b3c84b9",
     "dest": "./offline-repository/io/grpc/protoc-gen-grpc-java/1.70.0",
