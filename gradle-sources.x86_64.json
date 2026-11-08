@@ -1,50 +1,40 @@
 [
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/3.25.3/protoc-3.25.3-linux-x86_64.exe",
-    "sha512": "a85bc707d0aba99a035f31bfbc8850920e107acd368c6d6eaa22a8e4938998e67eb599d590d9e7791f9e5a4050ef78689636ddd5b1fa3e10bb00a8c9cee460fd",
-    "dest": "./offline-repository/com/google/protobuf/protoc/3.25.3",
-    "dest-filename": "protoc-3.25.3-linux-x86_64.exe",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/4.36.2/protoc-4.36.2-linux-x86_64.exe",
+    "sha512": "dd34c4f0c217f8efb9e07a081328bde74ece9217e59cce7a3f3a18de665289f76aa434a427c2302398c09610e27d07a3743257da9e782f7e289de09e2217db95",
+    "dest": "./offline-repository/com/google/protobuf/protoc/4.36.2",
+    "dest-filename": "protoc-4.36.2-linux-x86_64.exe",
     "only_arches": [
       "x86_64"
     ]
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/3.25.5/protoc-3.25.5-linux-x86_64.exe",
-    "sha512": "9a3ea6dda634499746eec9c8f8527ba707cc8755af72e8ed34b0cffcfe092071792745fe45a5a53f43e2eecf90b25537cf836be4903626ee0a6bb796f5fbf961",
-    "dest": "./offline-repository/com/google/protobuf/protoc/3.25.5",
-    "dest-filename": "protoc-3.25.5-linux-x86_64.exe",
+    "url": "https://repo.maven.apache.org/maven2/io/grpc/protoc-gen-grpc-java/1.85.1/protoc-gen-grpc-java-1.85.1-linux-x86_64.exe",
+    "sha512": "d73e906be5c17c761f717f2682617dfa4d88dbb02a598b8bf79fdcdaa3c0efb85a0b9183d881561220ccefe354f858fd000341157d6a49c432bc35f4be93f93a",
+    "dest": "./offline-repository/io/grpc/protoc-gen-grpc-java/1.85.1",
+    "dest-filename": "protoc-gen-grpc-java-1.85.1-linux-x86_64.exe",
     "only_arches": [
       "x86_64"
     ]
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/io/grpc/protoc-gen-grpc-java/1.70.0/protoc-gen-grpc-java-1.70.0-linux-x86_64.exe",
-    "sha512": "393631a190feb2edff559f58ece7a4d05491d288ca31e84adccd2af32b202ff9ceaf1a332c1d5f733f34cf475bea364a528e33ce7c37b0c0a404cd955b3c84b9",
-    "dest": "./offline-repository/io/grpc/protoc-gen-grpc-java/1.70.0",
-    "dest-filename": "protoc-gen-grpc-java-1.70.0-linux-x86_64.exe",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.12.2/desktop-jvm-linux-x64-1.12.2.pom",
+    "sha512": "d8eb480b4f39efa624829e70e39f75248d1dc0dd16cbc09339ac7bec2433c1429a3cc5312282f523e4ce2c4a8c4a23d52afb7524e4539a1356701acc67f97665",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.12.2",
+    "dest-filename": "desktop-jvm-linux-x64-1.12.2.pom",
     "only_arches": [
       "x86_64"
     ]
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.11.1/desktop-jvm-linux-x64-1.11.1.pom",
-    "sha512": "76bbff77e1c549ea14701d787141169f819e013b24e6f9c0e3406da52f71a81e08fda5b3b92df66292e474fac94fc462ade40dae2b96358dd051547a0986b8ac",
-    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-x64/1.11.1",
-    "dest-filename": "desktop-jvm-linux-x64-1.11.1.pom",
-    "only_arches": [
-      "x86_64"
-    ]
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.144.6/skiko-awt-runtime-linux-x64-0.144.6.jar",
-    "sha512": "37e1716996f1862c6a4c5f502afc134d060f3ef48c8d5db7fa97260a278d02d8f52c045a3cf24d7df8adb5983aa90fd65e0d1863aa1eebc852a9ee4368596e1c",
-    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.144.6",
-    "dest-filename": "skiko-awt-runtime-linux-x64-0.144.6.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.150.2/skiko-awt-runtime-linux-x64-0.150.2.jar",
+    "sha512": "fa8a6db30798f01dcd74f1a846ec7adcb250ade70ff173ed22795cd5f8e10557c9e9fb305015a29250b1b89b350f47aa22cb3252005d2d1a0258cbf6636706cb",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-x64/0.150.2",
+    "dest-filename": "skiko-awt-runtime-linux-x64-0.150.2.jar",
     "only_arches": [
       "x86_64"
     ]
