@@ -3879,6 +3879,146 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client-parent/2.9.2/google-api-client-parent-2.9.2.pom",
+    "sha512": "3da3e9bb4f7e11ffa07693da083ee41a47d3223dde509461525d826802d122256f5dfebe4b158a45e8183559389a94686643a88480f697c9baf91f92e40d9402",
+    "dest": "./offline-repository/com/google/api-client/google-api-client-parent/2.9.2",
+    "dest-filename": "google-api-client-parent-2.9.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client/2.9.2/google-api-client-2.9.2.jar",
+    "sha512": "bebdea3e837b93f9738e3faa57633878aacf3d6ed54a294c81d535ced49365b5464b494d0f93d67af693dddb3558f72927d9a1cb402cb7aec6e708e2b6cb33c5",
+    "dest": "./offline-repository/com/google/api-client/google-api-client/2.9.2",
+    "dest-filename": "google-api-client-2.9.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client/2.9.2/google-api-client-2.9.2.pom",
+    "sha512": "870fc4a039c3ca8d43a98e923c9f46ed39fffa7b92cc2ed2d93a877abd2a34d5fe8446cda1ce9e9e68d13f89ccedfc3e692631c777a18e9def7b0854a63acf77",
+    "dest": "./offline-repository/com/google/api-client/google-api-client/2.9.2",
+    "dest-filename": "google-api-client-2.9.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api/api-common/2.53.0/api-common-2.53.0.jar",
+    "sha512": "8651f8bf699c8e088b72b9e800c61871d0732f73e227aa9451b78a0049f5ba1a125e9026eb34a7b4400f976e463b2ba816e9f33d0023ceafe9eeaccb3addbee1",
+    "dest": "./offline-repository/com/google/api/api-common/2.53.0",
+    "dest-filename": "api-common-2.53.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api/api-common/2.53.0/api-common-2.53.0.pom",
+    "sha512": "35c3ca4346fbbd8882e03ef69e7bbc09912618acc1afff657f3c37ec61d8c23dd38cfa34d92780bea7570a318fc524107ada7bb4a6ebbecd815d29b481ac4093",
+    "dest": "./offline-repository/com/google/api/api-common/2.53.0",
+    "dest-filename": "api-common-2.53.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api/gapic-generator-java-pom-parent/2.62.0/gapic-generator-java-pom-parent-2.62.0.pom",
+    "sha512": "cb63625fad56cab2fb742ea29c1a338f9a9e3aa0933a346752a7320af60917171408f13efc224025ee40b44da22e03982343635c0f46afe03df77b05bd63a685",
+    "dest": "./offline-repository/com/google/api/gapic-generator-java-pom-parent/2.62.0",
+    "dest-filename": "gapic-generator-java-pom-parent-2.62.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/apis/google-api-services-drive/v3-rev20261023-2.9.2/google-api-services-drive-v3-rev20261023-2.9.2.jar",
+    "sha512": "a86a037cd238e36d0623e70d0ee8845182bb4ebed36c65c92a44206fe998b8eeba6039d848b5af14e0bc11c1c03d9568270a5c92e3873ecd5e6e427d8992f9da",
+    "dest": "./offline-repository/com/google/apis/google-api-services-drive/v3-rev20261023-2.9.2",
+    "dest-filename": "google-api-services-drive-v3-rev20261023-2.9.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/apis/google-api-services-drive/v3-rev20261023-2.9.2/google-api-services-drive-v3-rev20261023-2.9.2.pom",
+    "sha512": "09ea20e5f2d29a48fe584d3a6b6f99b5501a00d4ac2112baf171030e0d822b2659a4d911a37c77e09453a1788c676cfe4b5e1fc37c803d171818df966171193d",
+    "dest": "./offline-repository/com/google/apis/google-api-services-drive/v3-rev20261023-2.9.2",
+    "dest-filename": "google-api-services-drive-v3-rev20261023-2.9.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-appengine/1.30.0/google-auth-library-appengine-1.30.0.pom",
+    "sha512": "fbcaa5ef04192621dc326d56beb6674d0eba415db34cf749517d5df05154ef3fb77ce0b1c3194b1d817638bc7e7947b185c5084952800893b0b4ac5fc9426ebd",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-appengine/1.30.0",
+    "dest-filename": "google-auth-library-appengine-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-bom/1.30.0/google-auth-library-bom-1.30.0.pom",
+    "sha512": "44826924331c792501dad77f3c3996c9584c7ee2116331ed8553fcf8ab30993109af2f7070d74425e6f2347bc0ffb5fbd303583d509e7dc684a493a757a92a70",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-bom/1.30.0",
+    "dest-filename": "google-auth-library-bom-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-credentials/1.30.0/google-auth-library-credentials-1.30.0.jar",
+    "sha512": "c6744db6c6526ca4d6a12d8e5fac9b60c96693881fc66938fd7c5226c47edb1eda394146680c3631a2501218307569eac4511ef50fc01c9747e2031bc3546c66",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-credentials/1.30.0",
+    "dest-filename": "google-auth-library-credentials-1.30.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-credentials/1.30.0/google-auth-library-credentials-1.30.0.pom",
+    "sha512": "2c6301de8aec3aea3ba103d5ac2304629b4df6bb8e994c5444da593042331683dfa88467d545c38e92d90ffb6e4e018255867fd987db2380f9dad1fa77b199da",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-credentials/1.30.0",
+    "dest-filename": "google-auth-library-credentials-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-credentials/1.39.0/google-auth-library-credentials-1.39.0.jar",
+    "sha512": "4461b1b65817a5a65f695299e919ba8ca6adabb29ba4d57b5c537a63360837fb58cb4b1b3cb258857f3b48180387e6a89d48b831408c9510d0b99928eae34b7d",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-credentials/1.39.0",
+    "dest-filename": "google-auth-library-credentials-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-credentials/1.39.0/google-auth-library-credentials-1.39.0.pom",
+    "sha512": "200919b831dcb1b4b82a5592b1e189b49db6eb0bdc41272e80448fc1411d3bec518acfdaf111205df4d8073031447500319fa8a0a9094730f192ef6095d0f921",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-credentials/1.39.0",
+    "dest-filename": "google-auth-library-credentials-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.30.0/google-auth-library-oauth2-http-1.30.0.jar",
+    "sha512": "1b250b76793d10a1ea63a2d5b6cd64705329e47639b8e6ea70e488cd74266b3bffaccdcb4c968e5cf57b9012e916c19fc0d56cfc1002a9a9f4024dda8ee3f8a9",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-oauth2-http/1.30.0",
+    "dest-filename": "google-auth-library-oauth2-http-1.30.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.30.0/google-auth-library-oauth2-http-1.30.0.pom",
+    "sha512": "69a0e0a02c84801eb9f0217c652e7ebda879d72f5a4f762ed9f18f0eee758d6a58559dc20a0c73b78a835bcadc6be6e0750293a360eb86e574b56322c5de2b12",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-oauth2-http/1.30.0",
+    "dest-filename": "google-auth-library-oauth2-http-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.39.0/google-auth-library-oauth2-http-1.39.0.jar",
+    "sha512": "d2cb0bec386219b9ef2377e9c8832a438ef2f5440ebf5963b803e0c30f4a2721f0ea9bfc5f8260e4006d321c6e82fd7b43c964fd9ebaedd1dc80dde681db8e98",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-oauth2-http/1.39.0",
+    "dest-filename": "google-auth-library-oauth2-http-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.39.0/google-auth-library-oauth2-http-1.39.0.pom",
+    "sha512": "095c8ceffbaee2bf5f2031cb593af500ea392ca2c8790dfbc93aab2cd8b9ffa63b11cfb45edf359994306f41974546ac6af927d6b88404796f0896dc94f095ca",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-oauth2-http/1.39.0",
+    "dest-filename": "google-auth-library-oauth2-http-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-parent/1.30.0/google-auth-library-parent-1.30.0.pom",
+    "sha512": "c9801094316a19ac545fea2df9ace5987caa4bea5d28cbad53c83c11cd2e6c4c266b065e89cdfcc54342d4f73aec0cbf42e0d7f5a37f896b0e6ce27a36cfd63f",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-parent/1.30.0",
+    "dest-filename": "google-auth-library-parent-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-parent/1.39.0/google-auth-library-parent-1.39.0.pom",
+    "sha512": "5a5360a8cbd0a7e70a46c8753f5d59c189daaf233189dc721a86140516108900ee48eb8857a5eef3d3df585594be067015d541161da86b746c570931272a7d7e",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-parent/1.39.0",
+    "dest-filename": "google-auth-library-parent-1.39.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/auto/auto-common/1.2.1/auto-common-1.2.1.jar",
     "sha512": "838305ba710edd0ba4e7ac2580d6db0b2f7a32ecd5b6dccac65e7e5f9a18d1f3eac47b552bf2283e0b8b7bacf6d8bcc52604a124c4324fa88884c56c1edfbb8b",
     "dest": "./offline-repository/com/google/auto/auto-common/1.2.1",
@@ -3904,6 +4044,20 @@
     "sha512": "26ae3b08ba8d985f1af24bd38da67e68bdaec0202276b4197079184583b31a4f40ca1adc9c4b03fea54f00788b7b8d03f24cbb7df9a4e488f5d5a8007bf6aaa7",
     "dest": "./offline-repository/com/google/auto/auto-parent/7",
     "dest-filename": "auto-parent-7.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auto/value/auto-value-annotations/1.11.0/auto-value-annotations-1.11.0.jar",
+    "sha512": "339742a85491c0fe529e97668cd86d9c3a7a80061d226e1a51eae45fb9c466e10ee2a4d4fc3b502b96aa473ac4e03850aef8a3b744d3972a934b279ceb80816e",
+    "dest": "./offline-repository/com/google/auto/value/auto-value-annotations/1.11.0",
+    "dest-filename": "auto-value-annotations-1.11.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auto/value/auto-value-annotations/1.11.0/auto-value-annotations-1.11.0.pom",
+    "sha512": "93e3171b6ee7078400896bd975f245cf4fcbe8375bd12e73f3be07ffdf19f06d0c5e0d49ef2ba1186f5524a6f586cbca8501e177d1504100c910e95722fe0d5a",
+    "dest": "./offline-repository/com/google/auto/value/auto-value-annotations/1.11.0",
+    "dest-filename": "auto-value-annotations-1.11.0.pom"
   },
   {
     "type": "file",
@@ -3935,6 +4089,13 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auto/value/auto-value-parent/1.11.0/auto-value-parent-1.11.0.pom",
+    "sha512": "f8e40aad8ade476e8c779a97948816309ca6cd9620324e138b8db1f189fd25f0f3e0a50b6921a48b6c0693513e38adf08520af0207e0fc3beccaec9f8877045e",
+    "dest": "./offline-repository/com/google/auto/value/auto-value-parent/1.11.0",
+    "dest-filename": "auto-value-parent-1.11.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/auto/value/auto-value-parent/1.6.2/auto-value-parent-1.6.2.pom",
     "sha512": "1c467407114d4eda18a71eca2093f6439b1bc7ed0c2e4f01df1975d45b7b261fb7aee09376b35f3c9928498b527c9ea4b1e9622b18e3478bf481fd64947db978",
     "dest": "./offline-repository/com/google/auto/value/auto-value-parent/1.6.2",
@@ -3946,6 +4107,41 @@
     "sha512": "29ba4cf23598a8eef54df94545ffd53512cbb1fffb93f28e9f3e72eac14ea5b264a70636f841640ba388903022dbb924a7162d014f2256e73ae582fe1ca84434",
     "dest": "./offline-repository/com/google/auto/value/auto-value-parent/1.6.3",
     "dest-filename": "auto-value-parent-1.6.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-shared-config/1.11.3/google-cloud-shared-config-1.11.3.pom",
+    "sha512": "e4ed649eb25d0c895e41c486e239f90e1de9e8eae60b589368ab7a9618c0cf8e940d4cd8c2d88b1d752a8c443aecc393cfba1aff7ab6222456dad11647a54afc",
+    "dest": "./offline-repository/com/google/cloud/google-cloud-shared-config/1.11.3",
+    "dest-filename": "google-cloud-shared-config-1.11.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-shared-config/1.16.1/google-cloud-shared-config-1.16.1.pom",
+    "sha512": "56fb3d2cd3366ffcfd7a3440c9425988c9cf963c2c0e3f4fb0269b1be0be0a5f15d80c2d2d44eb150655c1cba7be760477d087aa3c9a4d05465d4c3067b5ec98",
+    "dest": "./offline-repository/com/google/cloud/google-cloud-shared-config/1.16.1",
+    "dest-filename": "google-cloud-shared-config-1.16.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/cloud/native-image-shared-config/1.11.3/native-image-shared-config-1.11.3.pom",
+    "sha512": "a2a27479bddd44ff52cde2e29d1f96674e04cc75b119fc475d22237f18a69a26a7c7b95b8f457f388e46084e006efa0107382532b0972aadff67ae11a8fb59d6",
+    "dest": "./offline-repository/com/google/cloud/native-image-shared-config/1.11.3",
+    "dest-filename": "native-image-shared-config-1.11.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/cloud/native-image-shared-config/1.16.0/native-image-shared-config-1.16.0.pom",
+    "sha512": "6475291b203a7d0874e33aa732da95c53caba1c2c507ceaa38f5c41157feb26e8b47896fcc0243a73362c7fa25e37e74f36d7a164b8ebd436305283a85e1a040",
+    "dest": "./offline-repository/com/google/cloud/native-image-shared-config/1.16.0",
+    "dest-filename": "native-image-shared-config-1.16.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/cloud/native-image-shared-config/1.16.1/native-image-shared-config-1.16.1.pom",
+    "sha512": "2ce6cc2ff4d32ff6a110c16d8d1e7234406024f9fa974b946a7357aa7ec3aca73ef8b7529c2419571484f7b38c90166d7b285361b9e414d5f12a21ddaacadeef",
+    "dest": "./offline-repository/com/google/cloud/native-image-shared-config/1.16.1",
+    "dest-filename": "native-image-shared-config-1.16.1.pom"
   },
   {
     "type": "file",
@@ -3970,6 +4166,13 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.12.1/gson-parent-2.12.1.pom",
+    "sha512": "e099a89999f863e95465baceeba2490fec16032a4eedf0955e3ec230ede9d5e2e6658a3f527a34a651ff3f3121713148e4afd4a03a97f8b0e145f152dae199b7",
+    "dest": "./offline-repository/com/google/code/gson/gson-parent/2.12.1",
+    "dest-filename": "gson-parent-2.12.1.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.14.0/gson-parent-2.14.0.pom",
     "sha512": "8f2498a254bcb6aa92563a3fdec533039055e1559a91a49be354b1cc4ffb39de2623a2c590308930d34eddf929567463baeafa0e91baf98c2bb0495260bba8d4",
     "dest": "./offline-repository/com/google/code/gson/gson-parent/2.14.0",
@@ -3988,6 +4191,20 @@
     "sha512": "239e09568793adf46ee24c5fa28d01a98e8034eb17928b9a9d22f070081785a681215d120c933f5c561354ba91ecac1464b4000956f698fe7ddabd3475a465ca",
     "dest": "./offline-repository/com/google/code/gson/gson/2.11.0",
     "dest-filename": "gson-2.11.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.12.1/gson-2.12.1.jar",
+    "sha512": "fafc369544e2d4a89f32c353dcbd012410a64a315a3cae9165d4ead6f8960aef5f77ced84c374d6a09af117748adca571b0426eb0e2864f584debb59707ebc03",
+    "dest": "./offline-repository/com/google/code/gson/gson/2.12.1",
+    "dest-filename": "gson-2.12.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.12.1/gson-2.12.1.pom",
+    "sha512": "49aca8b17b4b4377dd358a356aec85d2105b5c8fca2a88fd4f5b5454a7f7e952980e0754e070adfa7136d01b9442c6efacc989c8a25d9928267c9fe3e869c61f",
+    "dest": "./offline-repository/com/google/code/gson/gson/2.12.1",
+    "dest-filename": "gson-2.12.1.pom"
   },
   {
     "type": "file",
@@ -4397,6 +4614,209 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-android/1.43.3/google-http-client-android-1.43.3.pom",
+    "sha512": "44fe112e96e7afc011b5c3d3352d245b94a9a1bab13a91586a1ec484b84bbe21c76babc6e9fd2133bfe509edf9d6e2fba1852eb2b7eba84c1aca67c974280a8d",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-android/1.43.3",
+    "dest-filename": "google-http-client-android-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-android/2.0.0/google-http-client-android-2.0.0.pom",
+    "sha512": "0cf65706f33ba7226cdbd167091cc68426ee26fe803f9850f27977e332c14637a10dfcd7fac1eab4d46908bc8971e10c0f4fff67975e9b4edf1c79249afc520a",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-android/2.0.0",
+    "dest-filename": "google-http-client-android-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-apache-v2/1.43.3/google-http-client-apache-v2-1.43.3.pom",
+    "sha512": "57eca5eb831da2c962ca1d6746a2d4d343ab1a690211ca927b00ee0b6d307a80bf41d0b2cca8504f48d5575253e6e46fc0a13e123cd96b18c9662d2b7344688a",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-apache-v2/1.43.3",
+    "dest-filename": "google-http-client-apache-v2-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-apache-v2/2.0.0/google-http-client-apache-v2-2.0.0.jar",
+    "sha512": "a6c7f96546105edbeff39373eace61893f0c53a6efca1de071ee481ca0a2b8845c2c5fc7c0f8a24f9dd7a0a1e69e177ac00f28aefbf54aca29a681470a523a17",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-apache-v2/2.0.0",
+    "dest-filename": "google-http-client-apache-v2-2.0.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-apache-v2/2.0.0/google-http-client-apache-v2-2.0.0.pom",
+    "sha512": "eba1903b187b664d832f0d3a3f9d629d93d721175c5ed3dc1b4d8c173da16b81858d304b458e07eebc75b0f12fdadd581ccd5c9a735da70464b3445a3eb5bd48",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-apache-v2/2.0.0",
+    "dest-filename": "google-http-client-apache-v2-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-apache-v5/2.0.0/google-http-client-apache-v5-2.0.0.pom",
+    "sha512": "240fff86673ef2872a012b936197da2d86d22fefa1cfeb5f1a6917b8519bb943417da22c695361054a3cf188af53c060890ec98c32f49b3e177fd9903f26e5d6",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-apache-v5/2.0.0",
+    "dest-filename": "google-http-client-apache-v5-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-appengine/1.43.3/google-http-client-appengine-1.43.3.pom",
+    "sha512": "5d9d5ea426b2fc80f926c22f70c403ccd17beddce56bfe81930e58bc2893c86bacf22de4dee3016483e46becfd64fcc2c8a162d4dd4aadaafd9f04bde4de70f9",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-appengine/1.43.3",
+    "dest-filename": "google-http-client-appengine-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-appengine/2.0.0/google-http-client-appengine-2.0.0.pom",
+    "sha512": "2ed0b525ce1511007fc23400515228b26e2f58406e24354bd17876cf439a10a459028282cdcbbf6fd037f560cce4b4e78a8e3110dbcde0840e79ceaf49f0bfd4",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-appengine/2.0.0",
+    "dest-filename": "google-http-client-appengine-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/1.43.3/google-http-client-bom-1.43.3.pom",
+    "sha512": "52cfcf4011de81af7865001c9b1b2d2e78a0d639bdaf2ac85e2014e7e1617c400245d8e86a46e6722a3a76cfb03eb72f30aeb149b40a1ceb10fad5d8849e4916",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/1.43.3",
+    "dest-filename": "google-http-client-bom-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/1.45.0/google-http-client-bom-1.45.0.pom",
+    "sha512": "8bf681c7013b73f99ff12bbdfc2e1cf775b1a82e9e45f737ba9a282209ce47ce27ef66744145060dff8beb4b8527d55f4e3e065297214acfd78ce4195c5bba07",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/1.45.0",
+    "dest-filename": "google-http-client-bom-1.45.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/1.47.0/google-http-client-bom-1.47.0.pom",
+    "sha512": "56957e35062cf008841b6dc6621cf07b7884e4684ea31fd7c46d40cdf7b91ce16f9daabcd3e0d7c830bcc0041471ff085428ac36a92fcc50d37892076a49576a",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/1.47.0",
+    "dest-filename": "google-http-client-bom-1.47.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/2.0.0/google-http-client-bom-2.0.0.pom",
+    "sha512": "189ada116c5de52d53061ec4ad63f4c5bdcb8cab8823e424735638418c759bf49832bf4590ff9a771574c01cece744c05c863e41cbcadd9d2a667c307b5188c3",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/2.0.0",
+    "dest-filename": "google-http-client-bom-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-findbugs/1.43.3/google-http-client-findbugs-1.43.3.pom",
+    "sha512": "66fbfdcf6ea18aef704fa9e7a37e73fcb7bc023f1e4a18ae15c3e1ef2714fe6f7fc1a7969b7b9d0789a6e74400328c91a981ddfc9d6bcdba6aa7550adbd26cdb",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-findbugs/1.43.3",
+    "dest-filename": "google-http-client-findbugs-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-findbugs/2.0.0/google-http-client-findbugs-2.0.0.pom",
+    "sha512": "94c0b32d47372de1333c2ea00983674a9a8eff578e40153405b4bc9f66bab6790c12ba8f89b4f5f81e4b0e4af1b89e442fa3d13833cedc37f9e98b5fe0baf149",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-findbugs/2.0.0",
+    "dest-filename": "google-http-client-findbugs-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.pom",
+    "sha512": "9c18723b0e2a34d839897bfa590d222aff200b84cf767fa08a2379d15e86440eb376a72fff0ac733cdee618160c903a11d1a0f44d84f42089862076f62c7580a",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/1.43.3",
+    "dest-filename": "google-http-client-gson-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/2.0.0/google-http-client-gson-2.0.0.jar",
+    "sha512": "b2c40f5fd0796c668ceb295a6984027edf885eb970986a7316350a678c82e15e868c818157dfec0055a87f388059d2be00c86974247951eea443b8ec57aef81f",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/2.0.0",
+    "dest-filename": "google-http-client-gson-2.0.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/2.0.0/google-http-client-gson-2.0.0.pom",
+    "sha512": "171d5e01794ba479ebe0c0884ff3b9ec1eae93dceb941c2a44c13c74f959b298c77a37b70a9a4918fefe48147ef487139decc834d6b57c03197c03c04bd98508",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/2.0.0",
+    "dest-filename": "google-http-client-gson-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-jackson2/1.43.3/google-http-client-jackson2-1.43.3.pom",
+    "sha512": "720ef1cd36e5d4e803b39413036cfe967aff106947d8bee2fa4ddedc3e4c9b933351b8407eb555450d3c246feda775e98bedf9e5357ac97acc2c4a7d3c3ae5d9",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-jackson2/1.43.3",
+    "dest-filename": "google-http-client-jackson2-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-jackson2/2.0.0/google-http-client-jackson2-2.0.0.pom",
+    "sha512": "7295cc3268ed7e65fc8d0a76a92d0699aa429f97b5e3eead55fa2847992a60ecbba4ea60450d5d13d13f33bfc33aa7037b0925776d8d65a4478009b915c9de28",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-jackson2/2.0.0",
+    "dest-filename": "google-http-client-jackson2-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-parent/2.0.0/google-http-client-parent-2.0.0.pom",
+    "sha512": "e0041276f3243b6ef637a39fc8a87df1cadb712f488af6ecd6b920312d91d93b66074564ae6ae800980e90a5bfe50d7f22edff2a384f5edf391875aa95871b45",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-parent/2.0.0",
+    "dest-filename": "google-http-client-parent-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-protobuf/1.43.3/google-http-client-protobuf-1.43.3.pom",
+    "sha512": "76c54f20c8727ae472939f44ce07189f6ef4b5dc51e766ce9f82913df6e03b9ce387e32b3a796bce861fae72e9e54ab39cf2584531fd1c8421ba4bb51761bfb4",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-protobuf/1.43.3",
+    "dest-filename": "google-http-client-protobuf-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-protobuf/2.0.0/google-http-client-protobuf-2.0.0.pom",
+    "sha512": "770766af583d5690310ff5741cb67fd4bc69cb20f1c2414ca70fde346df2005ffd9cb26d5854c157fb0e9d12c6a52e2171557dd789ef69427e59b4ec6f8e84f0",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-protobuf/2.0.0",
+    "dest-filename": "google-http-client-protobuf-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-test/1.43.3/google-http-client-test-1.43.3.pom",
+    "sha512": "f8d0b77345ed8799d38522232ca240d8835228072474a9a9275e67c1695691ca260fb6785bf7b4a3279e4beb3347b578aaf2f7b67e6ce6f0632233b498d2e65f",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-test/1.43.3",
+    "dest-filename": "google-http-client-test-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-test/2.0.0/google-http-client-test-2.0.0.pom",
+    "sha512": "990f6c910fe8eb549372843290644fe67ae4d3b5d647035eeafe3598bb36a8720f68fc063862a0b7c5878303f3e9c4d2cb905f30e3e078e3241e39a0f65736b1",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-test/2.0.0",
+    "dest-filename": "google-http-client-test-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-xml/1.43.3/google-http-client-xml-1.43.3.pom",
+    "sha512": "e36448ac986923d7d0f2e3970077d54fdb80ae1d030d58b00e18bba7d3d6f5e1af9bd3b46d9af8aed7fe06855d70662f43f0514279b142a33a931d79467b74f1",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-xml/1.43.3",
+    "dest-filename": "google-http-client-xml-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-xml/2.0.0/google-http-client-xml-2.0.0.pom",
+    "sha512": "a15ca9e3b44f3eeed87722b7fb465b47708ae628d58b1f0d1821adf98a02ddb1afce9a05c079e3f87b4f9670f485f3b2c6c57a9abbb9a50c3d39414f6522c683",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-xml/2.0.0",
+    "dest-filename": "google-http-client-xml-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.pom",
+    "sha512": "6431e24d06582f851d8afccd5022af7952bd7ec71f3bd8a0dda4908994ffd9cae1486bd617410dc80a0a35449629d6fcd8584ddad45cc0586500396adf5073c3",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/1.43.3",
+    "dest-filename": "google-http-client-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/2.0.0/google-http-client-2.0.0.jar",
+    "sha512": "537b1a972dded6e368b3ef1103f20db0152a9095e2e7503f5e72498ae7ec1dd10f0c4b2c4e64953b44dfdb293a22ae6b09c68ee099363baff638758e650472a9",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/2.0.0",
+    "dest-filename": "google-http-client-2.0.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/2.0.0/google-http-client-2.0.0.pom",
+    "sha512": "8f7d69e2f445e81c83bc58eba0262ef081c18c1773a0dceb3015617554d708718a342eef04694b4ce9e93a12be74bff48d6515e62a051fe60b5eba3ae58bea35",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/2.0.0",
+    "dest-filename": "google-http-client-2.0.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar",
     "sha512": "1406b1aa53b19f8269129d96ce8b64bf36f215eacf7d8f1e0adadee31614e53bb3f7acf4ff97418c5bfc75677a6f3cd637c3d9889d1e85117b6fa12467c91e9f",
     "dest": "./offline-repository/com/google/j2objc/j2objc-annotations/3.0.0",
@@ -4443,6 +4863,111 @@
     "sha512": "af3cabfa14bac0d46470416b4a2747404cf6ec9da96688ede925131ffba3da6a74f1b73db4aa6a44ea11f90ded4f308aa4e8bd16c9581b9a7ed95d79aa330384",
     "dest": "./offline-repository/com/google/jimfs/jimfs/1.1",
     "dest-filename": "jimfs-1.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-appengine/1.36.0/google-oauth-client-appengine-1.36.0.pom",
+    "sha512": "4ae361e8c5f5b152b9cfed3acbaddda8f4f454cc3834c5d988093e62fcd4fd5d45ec2186cd54b97684cccddcd5e9903cf07cc552d8ec49c037d398e9ee7d02c8",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-appengine/1.36.0",
+    "dest-filename": "google-oauth-client-appengine-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-bom/1.36.0/google-oauth-client-bom-1.36.0.pom",
+    "sha512": "6b747029e8ecbce424dfeb89c1c3368f8f23f6e261fcfe5bccd19624652cf2f06addeaf46cf05919dca099b673ffb792c111ab3add08530aeeda3e8355bf91f6",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-bom/1.36.0",
+    "dest-filename": "google-oauth-client-bom-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-java6/1.36.0/google-oauth-client-java6-1.36.0.pom",
+    "sha512": "3c15cb7cf4fca6af46bf07944a9fd655a131272915d382b3536d9b56c25d16d83eaa0999d96e4b4cfd70170e67901ba8421e2fcea06d2fb85e17ef3c727dc8cd",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-java6/1.36.0",
+    "dest-filename": "google-oauth-client-java6-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-java6/1.39.0/google-oauth-client-java6-1.39.0.jar",
+    "sha512": "f7b89dc0ba316c91810a563e641ad09a7ce3facca2856298f20c603cf2b46361fe443bb919685fcd851bb1ae0825d80262b809f44c6b8f441c2b069d492f7f17",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-java6/1.39.0",
+    "dest-filename": "google-oauth-client-java6-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-java6/1.39.0/google-oauth-client-java6-1.39.0.pom",
+    "sha512": "f94a7bae98878898e28cf54b1bfa5d5e3fba7a3d7807971020a386920c345ce7741f467d9445571a5c6b0ec7babe923d5db4b934d742ccc14984a3c343a4a201",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-java6/1.39.0",
+    "dest-filename": "google-oauth-client-java6-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.36.0/google-oauth-client-jetty-1.36.0.pom",
+    "sha512": "75c8bfb91eafa487bd390b428342554a721efa9b3da1fe963c5e5a88b1dc110e4eae9dd0365de0c47e6bf599b7ba0f2e78ee68f8915827be7722b43947b71acb",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.36.0",
+    "dest-filename": "google-oauth-client-jetty-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.39.0/google-oauth-client-jetty-1.39.0.jar",
+    "sha512": "a227ef0b4a5430fbd42f0243fa3b1bbc9d624ab14e68270ee5c5bbf9c6a0ad7cc791644811dc19fe800048f61589ab9e31effbff78328f12a0e7419b48ba8645",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.39.0",
+    "dest-filename": "google-oauth-client-jetty-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.39.0/google-oauth-client-jetty-1.39.0.pom",
+    "sha512": "d5a630936f32cec52a9f10029e56e7cf9669018f8531e17ae44346b9239cbd907d1a6fcaaebc6d7dd6d3542c25eb1d77acacd812b2cca6a8812de3c0d1055489",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.39.0",
+    "dest-filename": "google-oauth-client-jetty-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-parent/1.36.0/google-oauth-client-parent-1.36.0.pom",
+    "sha512": "c76f5b57abf937032cfc568305e3b3eb5e4e0171c9fc4ffd6e016047060d392fdfc806776025eec41738248aa77f7157809b270f6c4a4ab57be126f63bff47e2",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-parent/1.36.0",
+    "dest-filename": "google-oauth-client-parent-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-parent/1.39.0/google-oauth-client-parent-1.39.0.pom",
+    "sha512": "2967027c54bc70d30e85763ec8ee44c3606d0608e1d3aade36505bfe15722e37a74f52c44d04dfe0e3b6174595e0cf107f047c9d575b6272fcc26962be21b45b",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-parent/1.39.0",
+    "dest-filename": "google-oauth-client-parent-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-servlet/1.36.0/google-oauth-client-servlet-1.36.0.pom",
+    "sha512": "bbb7f1d96c24065f789cc3fb306237b0fb57b6dbf05c3d3605198266929a6793c0c669cdb819b86d35ae55589a393942424e57d34f4a2b4e731eae08b428bf99",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-servlet/1.36.0",
+    "dest-filename": "google-oauth-client-servlet-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client/1.36.0/google-oauth-client-1.36.0.jar",
+    "sha512": "f354454c7cf44ecd14f9fa8576c318809dddb368b65b9e1a356841a51555e657a4714a247a4d4db45ded388afad9fae2951d5b9ce420374e4649c521e7b0e7f3",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client/1.36.0",
+    "dest-filename": "google-oauth-client-1.36.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client/1.36.0/google-oauth-client-1.36.0.pom",
+    "sha512": "3a66c01f831061f22cd55c238f638cc1860b38c13ace1fe6acd4a8be1ef447e9968b82594eca19de839e39c423c9122656ad419f0e78a07207f4bdfb61cfdbcd",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client/1.36.0",
+    "dest-filename": "google-oauth-client-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client/1.39.0/google-oauth-client-1.39.0.jar",
+    "sha512": "f8973ab9ddda79746cc4e5d6c156e571604304627db7ebc2a570f56679cdeeddad86ce8e36a8acb7593a215c9a55cd8b8f86d85d9bec67b71c15b27eb1af45fd",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client/1.39.0",
+    "dest-filename": "google-oauth-client-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client/1.39.0/google-oauth-client-1.39.0.pom",
+    "sha512": "d58b653fce0345f90cfc7b1c8ab2f8f1fe10392c3436b9e8732ea8206ca8e9a9daec1adb71d8e82e333ae1376665777db048222feeb64862438d731567f6e2d0",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client/1.39.0",
+    "dest-filename": "google-oauth-client-1.39.0.pom"
   },
   {
     "type": "file",
@@ -5468,6 +5993,20 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.70.0/grpc-api-1.70.0.jar",
+    "sha512": "011e0ce3870ade374954e5818f3a03ab22bd19fbbf171d2873bdf1ecdbdefae183a512043f9155aa120dce3e1c902680372b18c3dcf1bb64ae508ecfa7631677",
+    "dest": "./offline-repository/io/grpc/grpc-api/1.70.0",
+    "dest-filename": "grpc-api-1.70.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.70.0/grpc-api-1.70.0.pom",
+    "sha512": "7fc13aacac59fe2fa298807055f796fa52e659f4db41334ec7b2dd1091d2ad3f57a8234155bdb785daa997093994fa0de348bc796de8b8ae41c2bef7872eb6e3",
+    "dest": "./offline-repository/io/grpc/grpc-api/1.70.0",
+    "dest-filename": "grpc-api-1.70.0.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.85.1/grpc-api-1.85.1.jar",
     "sha512": "73f82af0b7c0a839cc38c2b80bef19cab0884be6041541f691787abb7b9248f92c7885af152bae00f91e3532f8480691218d7d4a55ee27a534a5748f7efec0cc",
     "dest": "./offline-repository/io/grpc/grpc-api/1.85.1",
@@ -5479,6 +6018,20 @@
     "sha512": "2b3490712ff3f4b146ba98dea8dc95d87b2dcddb731f1fd9f234f2c19805939fef86deab85191785c877e8d5af06f114e0c46dc700d3a18c1d4e396a34267e87",
     "dest": "./offline-repository/io/grpc/grpc-api/1.85.1",
     "dest-filename": "grpc-api-1.85.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.70.0/grpc-context-1.70.0.jar",
+    "sha512": "430cd53a07173fcfe8ac65d0b6f682a30eb7a50df9c33850a39dd2d48a159e63afec1e430471aeeb00c9c88e2354d4d5c456e451309ef5640c91a73def197fb7",
+    "dest": "./offline-repository/io/grpc/grpc-context/1.70.0",
+    "dest-filename": "grpc-context-1.70.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.70.0/grpc-context-1.70.0.pom",
+    "sha512": "27e9abc7de5cfb5fc6d70bc038e4adf281ad8a35c2625d5ed4f1f47f448cf389cbfb1248f8db053b57da1305c091c833fba48c26fd531665bf1905ec2560313f",
+    "dest": "./offline-repository/io/grpc/grpc-context/1.70.0",
+    "dest-filename": "grpc-context-1.70.0.pom"
   },
   {
     "type": "file",
@@ -5661,6 +6214,34 @@
     "sha512": "4021e8db2c488820f516460a15d126d4bfeac211d9f8195fafd9ea3512588924a4628ae06a2595d88665b57526ab3eadfb21fc1ac4c904a670576fe7a2d18824",
     "dest": "./offline-repository/io/maryk/rocksdb/rocksdb-multiplatform/10.4.2/../../rocksdb-multiplatform-jvm/10.4.2",
     "dest-filename": "rocksdb-multiplatform-jvm-10.4.2.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.jar",
+    "sha512": "aac98ed2de298609bac9cb5a69ac16df0ca9c9fc82f429720ddcfdd769fdae96b707ed81c8d8c37380de846b302aacaac80156ef75567061aed3f77cc3c3b725",
+    "dest": "./offline-repository/io/opencensus/opencensus-api/0.31.1",
+    "dest-filename": "opencensus-api-0.31.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.pom",
+    "sha512": "d1a4b97808f714e15aa21dd64292797b8bb02227dd3699d47a3738436c682808658445a602235c0aa964acb4b9461c85b4634171552d0efea683beea61173099",
+    "dest": "./offline-repository/io/opencensus/opencensus-api/0.31.1",
+    "dest-filename": "opencensus-api-0.31.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.jar",
+    "sha512": "3192532e4989a26d9a69f4246ef994b35058d155e199b500196d14427d1b46b1515f872a36500cb84768524870297388c90272ffa61dc8448f6f7571c4f86b27",
+    "dest": "./offline-repository/io/opencensus/opencensus-contrib-http-util/0.31.1",
+    "dest-filename": "opencensus-contrib-http-util-0.31.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.pom",
+    "sha512": "1c844455a2555327c106dc16f9bcf0c467473764e20408eae9c1d0493a9cc735d6116d28c90df63f3028b750607d0254e650fbcc4fa359157b7fec56ce79a456",
+    "dest": "./offline-repository/io/opencensus/opencensus-contrib-http-util/0.31.1",
+    "dest-filename": "opencensus-contrib-http-util-0.31.1.pom"
   },
   {
     "type": "file",

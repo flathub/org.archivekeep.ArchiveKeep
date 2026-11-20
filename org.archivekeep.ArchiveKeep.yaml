@@ -61,8 +61,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/archivekeep/archivekeep.git
-        commit: f2fa5da3eb0a7bc49499f3a91517b525a0bdf1b4
-        tag: v0.8.3
+        commit: c13e107b91334267cf8be64b46c139f3677eb4f0
+        tag: v0.9.0
         disable-submodules: true
       - type: file
         url: "https://services.gradle.org/distributions/gradle-9.5.1-bin.zip"
